@@ -1,0 +1,20 @@
+# Gráfico das escolas de Parnamirim
+
+Este projeto é uma aplicação web que exibe um gráfico da quantidade de escolas nos bairros de Parnamirim. Ele é construído com React e Chart.js.
+
+## Requisitos
+
+- Node.js v20.13.0
+- NPM ou Yarn
+
+## Instalação
+
+1. Clone este repositório para a sua máquina local.
+2. Navegue até o diretório do projeto.
+3. Execute `npm install` ou `yarn install` para instalar as dependências.
+
+## Uso
+
+1. Execute `npm start` ou `yarn start` para iniciar o servidor de desenvolvimento.
+2. Abra o seu navegador e navegue até `http://localhost:3000`.
+3. Você verá um gráfico de barras que mostra a quantidade de escolas em cada bairro de Parnamirim.

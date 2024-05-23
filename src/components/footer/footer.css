@@ -1,0 +1,39 @@
+footer {
+  margin-top: 4rem;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 9.6875rem;
+  padding: 0 11rem;
+  font-size: 1rem;
+  background-color: #1c3152;
+  flex-wrap: nowrap;
+  color: #fff;
+}
+
+.footer__content {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.footer__content > p {
+  display: flex;
+  flex-direction: column;
+  font-family: Inter, monospace;
+  line-height: 1.25rem;
+}
+
+.developer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-color: #2F528A;
+  font-size: 1rem;
+  font-family: Inter, monospace;
+  padding: 1rem 0;
+}

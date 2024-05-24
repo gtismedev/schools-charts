@@ -5,7 +5,7 @@ Este projeto é uma aplicação web que exibe um gráfico da quantidade de escol
 ## Requisitos
 
 - Node.js v20.13.0
-- NPM ou Yarn
+- NPM
 
 ## Instalação
 

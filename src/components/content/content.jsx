@@ -10,6 +10,10 @@ export function Content() {
 
   const neighborhoods = Object.keys(schoolsPerNeighborhood).length;
 
+  const total = Object.values(schoolsPerNeighborhood)
+    .flat()
+    .reduce((accumulator, school) => accumulator + school.studentAmount, 0);
+
   return (
     <>
       <div className="title">
@@ -26,7 +30,7 @@ export function Content() {
           <span>Bairros</span>
         </div>
         <div className="content__box">
-          <p>25000</p>
+          <p>{total}</p>
           <span>Alunos</span>
         </div>
       </div>

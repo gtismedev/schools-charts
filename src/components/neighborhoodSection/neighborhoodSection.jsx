@@ -38,6 +38,7 @@ export function NeighborhoodSection() {
                 <th>Escola</th>
                 <th>Tipo de escola</th>
                 <th>Quantidade de alunos</th>
+                <th>Links</th>
               </tr>
             </thead>
             <tbody>
@@ -46,6 +47,7 @@ export function NeighborhoodSection() {
                   <td>{school.name}</td>
                   <td>{school.tag}</td>
                   <td>{school.studentAmount}</td>
+                  <td><button className="buttons__table">Ver escola</button></td>
                 </tr>
               ))}
             </tbody>

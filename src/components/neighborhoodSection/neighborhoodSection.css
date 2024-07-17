@@ -74,3 +74,20 @@ h2 {
   background-color: #1c3152;
   color: #fff;
 }
+
+.buttons__table {
+  height: 3rem;
+  width: 100%;
+  color: #fff;
+  background-color: #c1c1c1;
+  border: none;
+  font-size: 1rem;
+  font-family: Inter, monospace;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.buttons__table:hover{
+  background-color: #1c3152;
+  color: #fff;
+}

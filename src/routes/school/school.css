@@ -1,0 +1,15 @@
+.school__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+
+  font-family: Inter, monospace;
+  color: #1c3152;
+}
+
+.school__container > h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 3rem;
+}

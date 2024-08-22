@@ -21,6 +21,10 @@
   margin-bottom: 2rem;
 }
 
+.error__container-button {
+  margin-top: 2rem;
+}
+
  .container__button {
   height: 3rem;
   width: 6rem;

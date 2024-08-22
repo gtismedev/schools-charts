@@ -1,4 +1,4 @@
-import { useRouteError } from "react-router-dom";
+import { Link, useRouteError } from "react-router-dom";
 import { Header } from "../../components/header/header";
 
 import "./error-page.css";
@@ -23,7 +23,9 @@ export default function ErrorPage() {
         </p>
 
         <div>
-          <button className="container__button">Voltar</button>
+          <Link to={`/`}>
+            <button className="container__button">Voltar</button>
+          </Link>
         </div>
       </div>
 

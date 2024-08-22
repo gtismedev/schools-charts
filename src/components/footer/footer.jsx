@@ -16,7 +16,7 @@ export function Footer() {
             <span>CEP - 59140-690 - Parnamirim/RN</span>
           </p>
           <p>
-            Telefone: (84) 98893-9666 <span>proinfoparnamirim@gmail.com</span>
+            Telefone: (84) 98893-9666 <span>gti.parnamirim@gmail.com</span>
           </p>
         </div>
       </div>

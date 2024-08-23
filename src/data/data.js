@@ -17,8 +17,18 @@ export const schoolsPerNeighborhood = {
     {
       id: 3,
       name: "Ivone Maria dos Santos",
+      phone: "3644-8219",
+      mail: ["monikaporfirio@hotmail.com", "katialanzillo@hotmail.com"],
+      pedagogicalDirector: {
+        name: "MONIKA PORFIRIO NUNES PESSOA",
+        contact: "99860-1221",
+      },
+      admFinancialDirector: {
+        name: "KATIA SUELY LANZILLO DE ALMEIDA NUNES",
+        contact: "98733-6094",
+      },
       tag: "C. I.",
-      address: "R SG NOBERTO MARQUES",
+      address: "Rua Sargento Norberto Marques, 182 – Centro",
       studentAmount: 99,
     },
   ],
@@ -56,8 +66,22 @@ export const schoolsPerNeighborhood = {
     {
       id: 8,
       name: "Vionete Sabino Amarante de Medeiros",
+      phone: "3644-8270",
+      mail: [
+        "cimvionetesabino@gmail.com",
+        "auxili2007@gmail.com",
+        "cristiannypaula@gmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "MARIA AUXILIADORA DE FREITAS MORAIS",
+        contact: "99426-1548",
+      },
+      admFinancialDirector: {
+        name: "MARGARETE MARIA SANTOS DA SILVA",
+        contact: "98836-6278",
+      },
       tag: "C. I.",
-      address: "RUA FRANCISCO FERREIRA DA SILVA",
+      address: "Rua Francisco Ferreira da Silva, SN – Rosa dos Ventos",
       studentAmount: 346,
     },
   ],
@@ -79,15 +103,39 @@ export const schoolsPerNeighborhood = {
     {
       id: 11,
       name: "Tio Hermes",
+      phone: "3644-8353",
+      mail: [
+        "cmeitiohermes@outlook.com",
+        "joselia.praxedes@hotmail.com",
+        "andresa-brito@hotmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "JOSELIA PRAXEDES DA SILVA",
+        contact: "98141-2815",
+      },
+      admFinancialDirector: {
+        name: "ANDRESA SANTOS DE BRITO",
+        contact: "99657-4675",
+      },
       tag: "C. I.",
-      address: "R. CICERO EUGENIO CARLOS",
+      address: "Rua São Paulo, SN – Nova Esperança",
       studentAmount: 323,
     },
     {
       id: 12,
       name: "Prof. Jacira Medeiros de Sousa Silva",
+      phone: "3643-6977",
+      mail: ["alynebrito23@yahoo.com.br", "zenaidebarros03@gmail.com"],
+      pedagogicalDirector: {
+        name: "ZENAIDE BARROS CANDIDO",
+        contact: "98737-6130",
+      },
+      admFinancialDirector: {
+        name: "ALYNE PATRICIA CRUZ DE BRITO",
+        contact: "99663-7880",
+      },
       tag: "E. M.",
-      address: "RUA SANTA ADELAIDE",
+      address: "Av. Joquei Clube, SN – Monte Castelo",
       studentAmount: 843,
     },
   ],
@@ -102,15 +150,39 @@ export const schoolsPerNeighborhood = {
     {
       id: 14,
       name: "Maria Dilma Lacerda",
+      phone: "3643-5970",
+      mail: ["cmeimariadilma@gmail.com", "jess92caroline@gmail.com"],
+      pedagogicalDirector: {
+        name: "MARIA PIEDADE TRINDADE DA SILVA",
+        contact: "98844-6006",
+      },
+      admFinancialDirector: {
+        name: "FRANCICLEIDE MEIRY DA SILVA",
+        contact: "99207-1516",
+      },
       tag: "C. I.",
-      address: "RUA BERTULINA ANTUNES",
+      address: "Rua Bertulina Antunes, SN – Vale do Sol",
       studentAmount: 263,
     },
     {
       id: 15,
       name: "Dr. Ilson Santos",
+      phone: "3644-8323",
+      mail: [
+        "cmeiisantos@gmail.com",
+        "montenegromanuella@gmail.com",
+        "andressaguedesprofessora@gmai.com",
+      ],
+      pedagogicalDirector: {
+        name: "MANUELLA MONTENEGRO VASCONCELOS",
+        contact: "99409-9418",
+      },
+      admFinancialDirector: {
+        name: "PRISCILA KEILA DANTAS",
+        contact: "99698-3357",
+      },
       tag: "C. I.",
-      address: "FIRMINO GOMES DE CASTRO",
+      address: "Rua Firmino Gomes de Castro, SN – Vale do Sol",
       studentAmount: 131,
     },
     {
@@ -125,8 +197,22 @@ export const schoolsPerNeighborhood = {
     {
       id: 17,
       name: "Prof. Ivanira de Vasconcelos Paisinho",
+      phone: "3643-5037",
+      mail: [
+        "cmeiivania@gmail.com",
+        "marie_medeiros@yahoo.com.br",
+        "elis.rj@hotmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "MARIA AUXILIADORA MEDEIROS DE OLIVEIRA",
+        contact: "99820-9350",
+      },
+      admFinancialDirector: {
+        name: "FLÁVIA LOPES GOMES",
+        contact: "98830-2014",
+      },
       tag: "E. M.",
-      address: "R ENGº CASTOR VIEIRA REGIS",
+      address: "Rua Bagre – 01 – Jockey Club",
       studentAmount: 612,
     },
   ],
@@ -157,8 +243,18 @@ export const schoolsPerNeighborhood = {
     {
       id: 21,
       name: "Joanita Arruda Câmara",
+      phone: "3644-8208",
+      mail: ["ld_almeida@hotmail.com"],
+      pedagogicalDirector: {
+        name: "JULIANA CATARINA DA MOTTA",
+        contact: "99207-2409",
+      },
+      admFinancialDirector: {
+        name: "LARISSA DIAS DE ALMEIDA",
+        contact: "99951-4808",
+      },
       tag: "C. I.",
-      address: "RUA JOSE BONIFACIO",
+      address: "Rua José Bonifácio, SN – Liberdade",
       studentAmount: 214,
     },
   ],
@@ -173,8 +269,18 @@ export const schoolsPerNeighborhood = {
     {
       id: 23,
       name: "Prof. Djanira Freire da Mota",
+      phone: "3272-9259",
+      mail: ["ci.djanira.mota@gmail.com", "laninhaka@yahoo.com.br"],
+      pedagogicalDirector: {
+        name: "FRANCISCA GILZETEDE FIGUEIREDO",
+        contact: "99961-2475",
+      },
+      admFinancialDirector: {
+        name: "MARCILIO RICARDO DE OLIVEIRA",
+        contact: "99961-2475",
+      },
       tag: "C. I.",
-      address: "RUA ROSA MASSUD COSTA",
+      address: "Rua Trinta e Quatro, SN – Cajupiranga",
       studentAmount: 200,
     },
   ],
@@ -189,8 +295,18 @@ export const schoolsPerNeighborhood = {
     {
       id: 25,
       name: "Dona Liquinha Alves",
+      phone: "3238-1075",
+      mail: ["cimliquinhaalves@gmail.com"],
+      pedagogicalDirector: {
+        name: "MARIA DE FATIMA MEDEIROS TRAJANO LIMA",
+        contact: "99431-7731",
+      },
+      admFinancialDirector: {
+        name: "MARIA ROSÂNGELA DA SILVA",
+        contact: "98738-3058",
+      },
       tag: "C. I.",
-      address: "RUA CARMI DE SOUZA",
+      address: "Rua Carmi de Souza, SN – Pirangi do Norte",
       studentAmount: 113,
     },
   ],
@@ -205,8 +321,22 @@ export const schoolsPerNeighborhood = {
     {
       id: 27,
       name: "Santa Luzia",
+      phone: "3237-4905",
+      mail: [
+        "santaluziacmei@gmail.com",
+        "raquelmlcorreia@yahoo.com.br",
+        "katarinaragao@yahoo.com.br",
+      ],
+      pedagogicalDirector: {
+        name: "KÁTIA SILVA",
+        contact: "99699-9692",
+      },
+      admFinancialDirector: {
+        name: "ANA RAQUEL DE OLIVERIA SOUZA",
+        contact: "",
+      },
       tag: "C. I.",
-      address: "TRAVESSA SANTA LUZIA",
+      address: "Rua Santa Luzia – SN – Pium",
       studentAmount: 197,
     },
   ],
@@ -214,8 +344,22 @@ export const schoolsPerNeighborhood = {
     {
       id: 28,
       name: "Prof. Neilza Gomes de Figueiredo",
+      phone: "3644-8370",
+      mail: [
+        "escolaneilzagomes@gmail.com",
+        "fabianaslima1980@gmail.com",
+        "professorastania@gmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "FABIANA CRISTINE SILVA DE LIMA",
+        contact: "99901-2655",
+      },
+      admFinancialDirector: {
+        name: "STANIA HELENA MONTENEGRO DA SILVA DE OLIVEIRA",
+        contact: "99981-6541",
+      },
       tag: "E. M.",
-      address: "RUA SALGUEIRO",
+      address: "Rua Salgueiro, 170 – Jardim Planalto",
       studentAmount: 255,
     },
   ],
@@ -237,15 +381,35 @@ export const schoolsPerNeighborhood = {
     {
       id: 31,
       name: "Prof Lúcia Maria dos Santos",
+      phone: "3615-3428",
+      mail: ["ciluciamaria2018@gmail.com", "thaiskaroline1@hotmail.com"],
+      pedagogicalDirector: {
+        name: "THAÍS KAROLINE NASCIMENTO S. BEZERRA",
+        contact: "99484-7501",
+      },
+      admFinancialDirector: {
+        name: "MÉRCIA JUSSARA DOS SANTOS",
+        contact: "98881-5540",
+      },
       tag: "C. I.",
-      address: "R. CARPINA BOA ESPERANCA",
+      address: "Rua Santa Luzia, 19 – Nova Parnamirim",
       studentAmount: 329,
     },
     {
       id: 32,
       name: "Mônica Alves do Amaral",
+      phone: "3208-9543",
+      mail: ["cmeimonicaalves1@gmail.com", "chelycmm@hotmail.com"],
+      pedagogicalDirector: {
+        name: "CRISTIANNY PAULA RIBEIRO ALVES",
+        contact: "99617-5276",
+      },
+      admFinancialDirector: {
+        name: "EDJANE PINHEIRO RIBEIRO",
+        contact: "99617-1336",
+      },
       tag: "C. I.",
-      address: "RUA DO AVELOZ",
+      address: "Rua Avelós, SN – Nova Parnamirim",
       studentAmount: 288,
     },
     {
@@ -281,8 +445,18 @@ export const schoolsPerNeighborhood = {
     {
       id: 37,
       name: "Prof. Francisca Reinaldo",
+      phone: "",
+      mail: ["juzeinefbf@gmail.com", "rochellycosta79@gmail.com"],
+      pedagogicalDirector: {
+        name: "JUZEINE FERNANDES BARRETO FLORENCIO DA SILVA",
+        contact: "98871-2066",
+      },
+      admFinancialDirector: {
+        name: "ROCHELLY VERUSKA PEREIRA COSTA",
+        contact: "98715-0199",
+      },
       tag: "C. I.",
-      address: "RUA PROFESSORA MARIA SOLIANO MEDEIROS",
+      address: "Parque das Orquídeas",
       studentAmount: 147,
     },
   ],
@@ -290,8 +464,22 @@ export const schoolsPerNeighborhood = {
     {
       id: 38,
       name: "Romana Santiago",
+      phone: "3643-5509",
+      mail: [
+        "cmeiromanasantiago@gmail.com",
+        "cristiannusb7@gmail.com",
+        "elidialipe@gmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "CRISTIANNI SALES DE BRITO",
+        contact: "98837-6039",
+      },
+      admFinancialDirector: {
+        name: "ELIDIA FERREIRA FELIPE MOURA",
+        contact: "98141-4636",
+      },
       tag: "C. I.",
-      address: "RUA RIO DAS CONTAS",
+      address: "Rua Rio das Contas, 178 – Parque Industrial",
       studentAmount: 223,
     },
     {
@@ -371,15 +559,39 @@ export const schoolsPerNeighborhood = {
     {
       id: 49,
       name: "Maria Leonor Freitas o Nascimento",
+      phone: "3645-1103",
+      mail: [
+        "cmeimarialeonor@gmail.com",
+        "anateresa1411@gmail.com",
+        "renapetrol@gmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "ANA TEREZA DE OLIVEIRA PINTO",
+        contact: "98772-8250",
+      },
+      admFinancialDirector: {
+        name: "RENATA PETRONILO BATISTA",
+        contact: "99933-0713",
+      },
       tag: "C. I.",
-      address: "AVENIDA BRIGADEIRO TROMPOWSKI",
+      address: "Av. Brigadeiro Trompowisk, SN – Monte Castelo",
       studentAmount: 275,
     },
     {
       id: 50,
       name: "Jaci Ferreira de Castro",
+      phone: "3643-6977",
+      mail: ["alynebrito23@yahoo.com.br", "zenaidebarros03@gmail.com"],
+      pedagogicalDirector: {
+        name: "ZENAIDE BARROS CANDIDO",
+        contact: "98737-6130",
+      },
+      admFinancialDirector: {
+        name: "ALYNE PATRICIA CRUZ DE BRITO",
+        contact: "99663-7880",
+      },
       tag: "C. I.",
-      address: "AVENIDA BELA PARNAMIRIM",
+      address: "Av. Joquei Clube, SN – Monte Castelo",
       studentAmount: 132,
     },
   ],
@@ -387,8 +599,22 @@ export const schoolsPerNeighborhood = {
     {
       id: 51,
       name: "Ivânia Soraia da Costa",
+      phone: "3643-5037",
+      mail: [
+        "cmeiivania@gmail.com",
+        "marie_medeiros@yahoo.com.br",
+        "elis.rj@hotmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "MARIA AUXILIADORA MEDEIROS DE OLIVEIRA",
+        contact: "99820.9350",
+      },
+      admFinancialDirector: {
+        name: "FLÁVIA LOPES GOMES",
+        contact: "98830-2014",
+      },
       tag: "C. I.",
-      address: "RUA BAGRE",
+      address: "Rua Bagre – 01 – Jockey Clu",
       studentAmount: 216,
     },
   ],
@@ -410,8 +636,18 @@ export const schoolsPerNeighborhood = {
     {
       id: 54,
       name: "Maria do Socorro de Araújo Menezes",
+      phone: "3645-6688",
+      mail: ["lucialamaro@yahoo.com.br", "alexa_xandinha@hotmail.com"],
+      pedagogicalDirector: {
+        name: "ANA LUCIA DE LIRA",
+        contact: "98120-7300",
+      },
+      admFinancialDirector: {
+        name: "ALEXANDRA BARBALHO RODRIGUES DOS SANTOS",
+        contact: "98897-9039",
+      },
       tag: "C. I.",
-      address: "RUA LUIZ GOMES",
+      address: "Rua Luiz Gomes, SN – Passagem de Areia",
       studentAmount: 257,
     },
     {
@@ -445,8 +681,22 @@ export const schoolsPerNeighborhood = {
     {
       id: 59,
       name: "Etenize Xavier da Silva Ângelo",
+      phone: "3645-6254",
+      mail: [
+        "etenizexavier@outlook.com",
+        "elisabethspadini@gmail.com",
+        "julixavier@hotmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "ELISABETH SPADINI",
+        contact: "99953-7762",
+      },
+      admFinancialDirector: {
+        name: "JULIENE XAVIER DE MEDEIROS",
+        contact: "99657-8448",
+      },
       tag: "C. I.",
-      address: "AV PRESIDENTE GETULIO VARGAS",
+      address: "Avenida Presidente Getúlio Vargas, 2073 – Passagem de Areia",
       studentAmount: 197,
     },
     {
@@ -468,15 +718,43 @@ export const schoolsPerNeighborhood = {
     {
       id: 62,
       name: "Mãe Sinhá",
+      phone: "3643-6251",
+      mail: [
+        "cimsmaesinha@gmail.com",
+        "gleidecorti@hotmail.com",
+        "profdonalba@gmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "GLEIDE DOS SANTOS CORTI",
+        contact: "99156-9473",
+      },
+      admFinancialDirector: {
+        name: "DONALBA MARIA DE LIRA",
+        contact: "99636-0011",
+      },
       tag: "C. I.",
-      address: "RUA VEREADOR BANDEIRA JUNIOR",
+      address: "Rua Vereador Bandeira Junior, Bela Parnamirim",
       studentAmount: 259,
     },
     {
       id: 63,
       name: "Prof. Judith Aguiar",
+      phone: "3644-8397",
+      mail: [
+        "judithaguiar2017@gmail.com",
+        "pauladantas@hotmail.com",
+        "anapaulapereiraj5@gmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "PAULA GERMANNA FRANCO DANTAS",
+        contact: "98770-1939",
+      },
+      admFinancialDirector: {
+        name: "ANA PAULA PEREIRA DE SOUZA",
+        contact: "98723-9535",
+      },
       tag: "C. I.",
-      address: "R. ALVOREDO",
+      address: "Rua Arvoredo, 9962 – Bela Parnamirim",
       studentAmount: 178,
     },
   ],
@@ -491,15 +769,44 @@ export const schoolsPerNeighborhood = {
     {
       id: 65,
       name: "Pref José Augusto Nunes",
+      phone: "3644-8265",
+      mail: [
+        "emaugustonunes@gmail.com",
+        "maricosta.silva2004@gmail.com",
+        "mari_36-2011@hotmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "MARIA JOSÉ COSTA DA SILVA",
+        contact: "998784-0480",
+      },
+      admFinancialDirector: {
+        name: "ARLÊNIA MARIA ROCHA",
+        contact: "99625-8150",
+      },
+
       tag: "E. M.",
-      address: "RUA ASPIRANTE SANTOS",
+      address: "Rua Aspirante Santos, 1502 – Santos Reis",
       studentAmount: 216,
     },
     {
       id: 66,
       name: "Eugênia Palhares",
+      phone: "3644-8257",
+      mail: [
+        "cimeipalhares@outlook.com",
+        "pris.fot@gmail.com",
+        "rosiribeiro@gmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "PRISCILA FERNANDES DE OLIVEIRA TOSCANO",
+        contact: "99637-5551",
+      },
+      admFinancialDirector: {
+        name: "ROSEMEIRE DO NASCIMENTO RIBEIRO",
+        contact: "99948-0922",
+      },
       tag: "C. I.",
-      address: "RUA JALDEMAR GOMES DA SILVA",
+      address: "Av. Senador Duarte Filho, s/n – Santos Reis",
       studentAmount: 255,
     },
   ],

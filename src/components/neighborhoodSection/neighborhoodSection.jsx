@@ -1,5 +1,7 @@
 import { useState } from "react";
 import { schoolsPerNeighborhood } from "../../data/data";
+import { Link } from "react-router-dom";
+
 import "./neighborhoodSection.css";
 
 export function NeighborhoodSection() {
@@ -42,12 +44,20 @@ export function NeighborhoodSection() {
               </tr>
             </thead>
             <tbody>
-              {selectedSchools.map((school, index) => (
-                <tr key={index}>
+              {selectedSchools.map((school) => (
+                <tr key={school.id}>
                   <td>{school.name}</td>
                   <td>{school.tag}</td>
                   <td>{school.studentAmount}</td>
-                  <td><button className="buttons__table">Ver escola</button></td>
+                  <td>
+                    <Link
+                      style={linkStyle}
+                      to={`escola/${school.id}`}
+                      className="buttons__table"
+                    >
+                      Ver escola
+                    </Link>
+                  </td>
                 </tr>
               ))}
             </tbody>
@@ -57,3 +67,8 @@ export function NeighborhoodSection() {
     </div>
   );
 }
+
+const linkStyle = {
+  textDecoration: "none",
+  padding: "5px",
+};

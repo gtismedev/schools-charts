@@ -5,6 +5,8 @@ import { schoolsPerNeighborhood } from "../../data/data";
 import { Header } from "../../components/header/header";
 import { Footer } from "../../components/footer/footer";
 
+import "./school.css";
+
 function School() {
   const matches = useMatches();
   const params = matches[0].params.schoolId;
@@ -50,9 +52,25 @@ function School() {
         <div className="school__container">
           <br />
           <h2>{schoolData.name}</h2>
-          <br />
-          <p>Telefone: {schoolData.phone}</p>
-          <p>Endereço: {schoolData.address}</p>
+          <div className="school__info">
+            <p>Telefone: {schoolData.phone}</p>
+            <p>Endereço: {schoolData.address}</p>
+          </div>
+
+          <h3>Gestores:</h3>
+
+          <div className="school__directors">
+            <div className="director">
+              <h4>
+                Diretor(a) Pedagógico: {schoolData.pedagogicalDirector.name}
+              </h4>
+            </div>
+            <div className="director">
+              <h4>
+                Diretor ADM-Financeiro: {schoolData.admFinancialDirector.name}
+              </h4>
+            </div>
+          </div>
         </div>
       </main>
       <Footer />

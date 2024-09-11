@@ -8,18 +8,35 @@ export function NeighborhoodSection() {
   const [selectedSchools, setSelectedSchools] = useState([]);
   const [selectedButton, setSelectedButton] = useState(null);
 
+  // Estado inicial: nenhuma escola selecionada
+  const allSchools = Object.values(schoolsPerNeighborhood).flat();
+
   const handleClick = (neighborhood) => {
     setSelectedSchools(schoolsPerNeighborhood[neighborhood]);
     setSelectedButton(neighborhood);
   };
 
+  const handleShowAll = () => {
+    setSelectedSchools(allSchools);
+    setSelectedButton(null); // Desseleciona o botão de bairro
+  };
+
   return (
     <div className="container">
-      <h2>Bairros: </h2>
+      <h2>Bairros:</h2>
       <div className="buttons">
+        <button
+          className={
+            selectedButton === null
+              ? "button-selected"
+              : "buttons__neighborhood-button"
+          }
+          onClick={handleShowAll}
+        >
+          Todas as escolas
+        </button>
         {Object.keys(schoolsPerNeighborhood).map((neighborhood, index) => (
           <button
-            id=""
             className={
               selectedButton === neighborhood
                 ? "button-selected"

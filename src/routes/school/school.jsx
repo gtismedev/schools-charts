@@ -57,6 +57,17 @@ function School() {
             <p>Endereço: {schoolData.address}</p>
           </div>
 
+          <div className="school__map">
+            <iframe
+              src={schoolData.map}
+              width="100%"
+              height="300"
+              allowfullscreen=""
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            ></iframe>
+          </div>
+
           <h3>Gestores:</h3>
 
           <div className="school__directors">

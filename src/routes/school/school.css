@@ -16,6 +16,10 @@
   line-height: 3.1rem;
 }
 
+.school__map {
+  margin: 1rem 0;
+}
+
 .school__directors {
   display: flex;
   flex-direction: column;

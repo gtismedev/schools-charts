@@ -19,6 +19,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Sargento Norberto Marques, 158 Centro",
+      map: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15874.248494852241!2d-35.26245589166689!3d-5.916935714249234!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257089a83dd09%3A0x67b28311be5807b7!2sEsc.%20Mun.%20Augusto%20Severo!5e0!3m2!1spt-PT!2sbr!4v1725988398303!5m2!1spt-PT!2sbr"',
       studentAmount: 717,
     },
     {
@@ -35,7 +36,8 @@ export const schoolsPerNeighborhood = {
         contact: "99925-6324",
       },
       tag: "E. M.",
-      address: "Rua Sargento Norberto Marques,936, Centro",
+      address: "Rua Sargento Norberto Marques, 690, Centro",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d556.8163842302881!2d-35.26405239833914!3d-5.9205666800133665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257095168ac23%3A0x9937849e8cec67b4!2sEscola%20Municipal%20Presidente%20Artur%20da%20Costa%20e%20Silva!5e0!3m2!1spt-PT!2sbr!4v1726054570576!5m2!1spt-PT!2sbr",
       studentAmount: 337,
     },
     {
@@ -53,6 +55,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Sargento Norberto Marques, 182 – Centro",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2102.276712096229!2d-35.26456692716567!3d-5.915880186371338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25708eba671b7%3A0xc3fafaee020eb024!2sC.I.%20Mun.%20Ivone%20Maria%20dos%20Santos!5e0!3m2!1spt-PT!2sbr!4v1726054674094!5m2!1spt-PT!2sbr",
       studentAmount: 99,
     },
   ],
@@ -72,6 +75,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Garrastazu Médice, 265 – Santa Tereza",
+      map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12968.360172889768!2d-35.296251203065914!3d-5.9267271979874145!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2575ae59436bb%3A0x955617caa2831384!2sEscola%20Municipal%20Jussier%20Santos!5e0!3m2!1spt-PT!2sbr!4v1726055121575!5m2!1spt-PT!2sbr",
       studentAmount: 331,
     },
     {
@@ -89,6 +93,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Delfim Moreira Neto, 189 – Santa Tereza",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15874.387112415205!2d-35.28584633713931!3d-5.912106211497531!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2574478b347dd%3A0x569de6e3a58dcf0e!2sEsc.%20Mun.%20Des.%20Silvino%20Bezerra%20Neto!5e0!3m2!1spt-PT!2sbr!4v1726055174034!5m2!1spt-PT!2sbr",
       studentAmount: 619,
     },
     {

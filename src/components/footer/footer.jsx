@@ -1,4 +1,4 @@
-import logoFooter from "../../assets/logo-parnamirim-white.svg";
+import logoFooter from "../../assets/logo-gti-footer.png";
 
 import "./footer.css";
 

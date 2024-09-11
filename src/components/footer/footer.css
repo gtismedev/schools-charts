@@ -10,6 +10,10 @@
   color: #fff;
 }
 
+.footer > img {
+  width: 270px;
+}
+
 .footer__content {
   display: flex;
   align-items: center;

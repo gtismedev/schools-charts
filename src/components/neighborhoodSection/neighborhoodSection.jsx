@@ -33,7 +33,7 @@ export function NeighborhoodSection() {
           }
           onClick={handleShowAll}
         >
-          Todas as escolas
+          Todas as unidades
         </button>
         {Object.keys(schoolsPerNeighborhood).map((neighborhood, index) => (
           <button
@@ -54,10 +54,10 @@ export function NeighborhoodSection() {
           <table className="schools-table__info">
             <thead>
               <tr>
-                <th>Escola</th>
-                <th>Tipo de escola</th>
+                <th>Unidade</th>
+                <th>Tipo da unidade</th>
                 <th>Quantidade de alunos</th>
-                <th>Links</th>
+                <th></th>
               </tr>
             </thead>
             <tbody>
@@ -72,7 +72,7 @@ export function NeighborhoodSection() {
                       to={`escola/${school.id}`}
                       className="buttons__table"
                     >
-                      Ver escola
+                      Ver unidade
                     </Link>
                   </td>
                 </tr>

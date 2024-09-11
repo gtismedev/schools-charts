@@ -42,6 +42,13 @@
   min-width: 10%;
 }
 
-.content__box>p {
+.content__box > p {
   font-weight: 700;
+}
+
+.content__box > span {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

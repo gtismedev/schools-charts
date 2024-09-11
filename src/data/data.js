@@ -111,6 +111,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Av: Paulo Afonso – 193/ - Santos Reis",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15874.534781777109!2d-35.28161413714019!3d-5.9069570113804115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2571536393dc3%3A0x62b7af9e02f659dc!2sCMEI%20IVETE%20MARIA%20FERREIRA%20DA%20SILVA!5e0!3m2!1spt-PT!2sbr!4v1726056071392!5m2!1spt-PT!2sbr",
       studentAmount: 0,
     },
   ],
@@ -130,6 +131,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Joel Imperador 72, Rosa dos Ventos",
+
       studentAmount: 643,
     },
     {

@@ -131,7 +131,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Joel Imperador 72, Rosa dos Ventos",
-
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15874.436389936931!2d-35.28181238713959!3d-5.910388411458444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2576b52c807db%3A0x92c264acb681c6ea!2sEscola%20Municipal%20Prof%20Alzelina%20de%20Sena%20Valen%C3%A7a!5e0!3m2!1spt-PT!2sbr!4v1726056574517!5m2!1spt-PT!2sbr",
       studentAmount: 643,
     },
     {
@@ -153,6 +153,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Francisco Ferreira da Silva, SN – Rosa dos Ventos",
+      map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15873.98270188623!2d-35.2812307!3d-5.9261851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2574153bb23b5%3A0xba3360b427ce74ae!2sCMEI%20Vionete%20Sabino%20Amarante%20de%20Medeiros!5e0!3m2!1spt-PT!2sbr!4v1726056652421!5m2!1spt-PT!2sbr",
       studentAmount: 346,
     },
   ],
@@ -172,6 +173,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua São Vicente, 305 - Nova Esperança",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.3197322459996!2d-35.2837350240591!3d-5.950606658514284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b259e80407bd91%3A0x9dc15005f8491b34!2sEsc.%20Mun.%20Prof%C2%AA%20Eulina%20Augusta%20de%20Almeida!5e0!3m2!1spt-PT!2sbr!4v1726056699678!5m2!1spt-PT!2sbr",
       studentAmount: 605,
     },
     {
@@ -189,6 +191,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua João Januário de Carvalho, 120 - Nova Esperança",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.3763814516356!2d-35.28225972405907!3d-5.942754458445875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b259dfc7390759%3A0xadded5e88b5df8!2sEsc.%20Mun.%20Maria%20de%20Jesus%20Medeiros%20de%20Lima!5e0!3m2!1spt-PT!2sbr!4v1726056749265!5m2!1spt-PT!2sbr",
       studentAmount: 809,
     },
     {
@@ -210,6 +213,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua São Paulo, SN – Nova Esperança",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.329242471004!2d-35.28272532405881!3d-5.949289158502776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f7481cbeef59%3A0xd0ad7169d0390368!2sC.I.%20Mun.%20Tio%20Hermes!5e0!3m2!1spt-PT!2sbr!4v1726056850726!5m2!1spt-PT!2sbr",
       studentAmount: 323,
     },
     {
@@ -231,6 +235,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Santa Adelaide, 345 – Nova Esperança",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.364446314442!2d-35.292410024059016!3d-5.944409658460303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25945c78c32bf%3A0x98177c211638bf06!2sEsc.%20Mun.%20Prof.%20Jacira%20Medeiros%20de%20Sousa%20Silva!5e0!3m2!1spt-PT!2sbr!4v1726056903056!5m2!1spt-PT!2sbr",
       studentAmount: 843,
     },
   ],
@@ -254,6 +259,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Eugênia Palhares de Oliveira, 191 - Vale do Sol",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.457806887985!2d-35.27660742405922!3d-5.931449858347581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2576f2cbc1227%3A0xfb86cc05fa6f78d1!2sEsc.%20Mun.%20Prof%C2%AA%20Enedina%20Eduardo%20do%20Nascimento!5e0!3m2!1spt-PT!2sbr!4v1726056948410!5m2!1spt-PT!2sbr",
       studentAmount: 306,
     },
     {
@@ -271,6 +277,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Bertulina Antunes, SN – Vale do Sol",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15873.831998380258!2d-35.28433223720274!3d-5.93142307863371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257ee474b93c7%3A0x6abfa8ea7cc7e9b0!2sCentro%20Infantil%20Maria%20Dilma!5e0!3m2!1spt-PT!2sbr!4v1726056995563!5m2!1spt-PT!2sbr",
       studentAmount: 263,
     },
     {
@@ -292,6 +299,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Firmino Gomes de Castro, SN – Vale do Sol",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.4666757911823!2d-35.26895572405921!3d-5.93021725833687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257baed589101%3A0xc797d1ce93bc18af!2sCMEI%20ILSON%20SANTOS!5e0!3m2!1spt-PT!2sbr!4v1726057041652!5m2!1spt-PT!2sbr",
       studentAmount: 131,
     },
     {
@@ -309,6 +317,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Cícero José dos Santos, 453 - Vale do Sol",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.4426349795262!2d-35.282287524059285!3d-5.93355785836589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25767eeb864d3%3A0xc2a281144710f04e!2sEsc.%20Mun.%20Historiador%20H%C3%A9lio%20Mamede%20Galv%C3%A3o!5e0!3m2!1spt-PT!2sbr!4v1726057086894!5m2!1spt-PT!2sbr",
       studentAmount: 625,
     },
   ],
@@ -332,6 +341,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Avenida Castor Vieira Regis, 424 - Cohabinal",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.5115950311565!2d-35.267998224059156!3d-5.923970458282599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25771596c4647%3A0x33c446c9dbe81405!2sEsc.%20Mun.%20Prof%C2%AA%20Ivanira%20de%20Vasconcelos%20Paisinho!5e0!3m2!1spt-PT!2sbr!4v1726057125608!5m2!1spt-PT!2sbr",
       studentAmount: 612,
     },
   ],
@@ -356,6 +366,7 @@ export const schoolsPerNeighborhood = {
       tag: "E. M.",
       address:
         "Rua Primeiro de Maio, 47 Conjunto Parnamirim II - Boa Esperança",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.4682125164622!2d-35.261918924059216!3d-5.930003658334998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25775d4562b6b%3A0x26954fe55ce198c5!2sEsc.%20Mun.%20Prof%C2%BA%20Homero%20de%20Oliveira%20Dantas!5e0!3m2!1spt-PT!2sbr!4v1726057172241!5m2!1spt-PT!2sbr",
       studentAmount: 354,
     },
   ],
@@ -375,6 +386,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua José Álvares Maciel, 215 Liberdade",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.4970460988666!2d-35.249563024059164!3d-5.9259944583001944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257703781894d%3A0x1ecea0f188ec8931!2sEsc.%20Mun.%20Prof%C2%AA%20Francisca%20Bezerra%20de%20Souza!5e0!3m2!1spt-PT!2sbr!4v1726057210717!5m2!1spt-PT!2sbr",
       studentAmount: 406,
     },
     {
@@ -396,6 +408,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua José Bonifácio, 395 – Liberdade",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15873.988954522301!2d-35.25728783720352!3d-5.92596767841414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2579482b2abb3%3A0x3c088ce715c1c8cc!2sEscola%20Municipal%20Jo%C3%A3o%20Gomes%20da%20Costa%20Neto!5e0!3m2!1spt-PT!2sbr!4v1726057256340!5m2!1spt-PT!2sbr",
       studentAmount: 427,
     },
     {
@@ -413,6 +426,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua José Bonifácio, SN – Liberdade",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.462919359257!2d-35.241354224059016!3d-5.930739358341375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2574a854113bd%3A0xf0616de5694f9cca!2sC.I.%20Mun.%20Joanita%20Arruda%20C%C3%A2mara!5e0!3m2!1spt-PT!2sbr!4v1726059873942!5m2!1spt-PT!2sbr",
       studentAmount: 214,
     },
   ],
@@ -436,6 +450,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Dayana Nascimento da Silva, 170 - Cajupiranga",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.3593588859376!2d-35.253093624058806!3d-5.945115058466428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25829b5d1e197%3A0x514e95fe2ba6e82f!2sEscola%20Municipal%20Prof.%20Edmo%20Pinheiro%20Pinto!5e0!3m2!1spt-PT!2sbr!4v1726059924234!5m2!1spt-PT!2sbr",
       studentAmount: 335,
     },
     {
@@ -453,6 +468,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Trinta e Quatro, SN – Cajupiranga",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15873.438208129106!2d-35.26081843720004!3d-5.945088279184794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b258293a8ac5d3%3A0x8ad23f6a50573d87!2sC.I.%20Mun.%20Prof.%20Djanira%20Freire%20da%20Mota!5e0!3m2!1spt-PT!2sbr!4v1726059973582!5m2!1spt-PT!2sbr",
       studentAmount: 200,
     },
   ],
@@ -472,6 +488,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Avenida Beira Rio, 830 – Distrito do Litoral, Pirangi do Norte",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.143177943393!2d-35.133834724058744!3d-5.975013058727558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f733ee735f89%3A0xe2b16db6b6479783!2sEscola%20Municipal%20Deputado%20Erivan%20Fran%C3%A7a!5e0!3m2!1spt-PT!2sbr!4v1726060007382!5m2!1spt-PT!2sbr",
       studentAmount: 503,
     },
     {
@@ -489,6 +506,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Carmi de Souza, SN – Pirangi do Norte",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.179094827441!2d-35.1364263240587!3d-5.970056058684125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f7f2f4a8a9b3%3A0x861083b0d8503274!2sC.I.%20Mun.%20Dona%20Liquinha%20Alves!5e0!3m2!1spt-PT!2sbr!4v1726060062225!5m2!1spt-PT!2sbr",
       studentAmount: 113,
     },
   ],
@@ -508,6 +526,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Avenida Edgardo Medeiros, 2130 - Distrito Litoral – Cotovelo",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.290072864948!2d-35.15715932405872!3d-5.954713658550114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f763fc4fd02b%3A0x9f71f42b0962f883!2sEscola%20Municipal%20Raimunda%20Maria%20Da%20Concei%C3%A7%C3%A3o!5e0!3m2!1spt-PT!2sbr!4v1726060090337!5m2!1spt-PT!2sbr",
       studentAmount: 296,
     },
     {
@@ -529,6 +548,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Santa Luzia – SN – Pium",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.3259070932404!2d-35.16196512405887!3d-5.949751258506764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f9044a575121%3A0xc43d5cc73117a58!2sC.I.%20Mun.%20Santa%20Luzia!5e0!3m2!1spt-PT!2sbr!4v1726060153286!5m2!1spt-PT!2sbr",
       studentAmount: 197,
     },
   ],
@@ -552,6 +572,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Salgueiro, 170 – Jardim Planalto",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.4707807965424!2d-35.25935772405926!3d-5.929646658331908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2579e79ca7433%3A0x2cbd45e0ac8ad828!2sEsc.%20Mun.%20Prof%C2%AA%20Neilza%20Gomes%20de%20Figueiredo!5e0!3m2!1spt-PT!2sbr!4v1726060202174!5m2!1spt-PT!2sbr",
       studentAmount: 255,
     },
   ],
@@ -575,6 +596,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Avenida Gandhi, 479 – Nova Parnamirim",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.7156699049915!2d-35.20803682405959!3d-5.895507258036391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f8911e3eb609%3A0xe1357bb1cf34e84b!2sESCOLA%20MUNICIPAL%20LUIS%20CARLOS%20GUIMAR%C3%83ES!5e0!3m2!1spt-PT!2sbr!4v1726060274345!5m2!1spt-PT!2sbr",
       studentAmount: 255,
     },
     {
@@ -592,6 +614,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Esplanada Deputado Nélio Dias, 1500 - Nova Parnamirim",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.702052788575!2d-35.206440624059475!3d-5.8974107580527955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f8975fc13d65%3A0xcfe32d52c532bf91!2sEscola%20Municipal%20Maria%20Francinete%20G.%20Maia!5e0!3m2!1spt-PT!2sbr!4v1726060353878!5m2!1spt-PT!2sbr",
       studentAmount: 743,
     },
     {
@@ -609,6 +632,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Santa Luzia, 19 – Nova Parnamirim",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6989102504067!2d-35.20702582405939!3d-5.897849958056625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f899e5255b29%3A0x36449776e33e5de1!2sCentros%20Infantil%20Prof.%20L%C3%BAcia%20Maria%20dos%20Santos!5e0!3m2!1spt-PT!2sbr!4v1726060405766!5m2!1spt-PT!2sbr",
       studentAmount: 329,
     },
     {
@@ -626,6 +650,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Avelós, SN – Nova Parnamirim",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.740640755093!2d-35.19893402405968!3d-5.892015058006249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f8bef762be97%3A0xe4f8665a7f8ff362!2sC.I.%20Mun.%20M%C3%B4nica%20Alves%20do%20Amaral!5e0!3m2!1spt-PT!2sbr!4v1726060531884!5m2!1spt-PT!2sbr",
       studentAmount: 288,
     },
     {
@@ -643,6 +668,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Avelós, 185 – Cidade Verde, Nova Parnamirim",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31750.60096993877!2d-35.26969588362756!3d-5.880185048438534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f8be4215afb9%3A0x6b11194433a06e58!2sEsc.%20Mun.%20Brigadeiro%20Eduardo%20Gomes!5e0!3m2!1spt-PT!2sbr!4v1726060628824!5m2!1spt-PT!2sbr",
       studentAmount: 632,
     },
     {
@@ -660,6 +686,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Santa Luzia, 214 – Nova Parnamirim",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31749.50667021156!2d-35.26208438354868!3d-5.89932788288908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2f8afa2a56999%3A0xea5162d63fe16d45!2sEscola%20Municipal%20Doutor%20Sadi%20Mendes!5e0!3m2!1spt-PT!2sbr!4v1726060678531!5m2!1spt-PT!2sbr",
       studentAmount: 558,
     },
   ],
@@ -679,6 +706,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua São João, 36 – Emaús",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.731293250189!2d-35.2373830240597!3d-5.893322558017565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2563fba731719%3A0x5ef526c56d52772a!2sEscola%20Municipal%20Maura%20de%20Morais%20Cruz!5e0!3m2!1spt-PT!2sbr!4v1726060737010!5m2!1spt-PT!2sbr",
       studentAmount: 219,
     },
     {
@@ -700,6 +728,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Travessa Nossa Senhora da Guia, 30 - Emaús",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.7720414474065!2d-35.233797024059676!3d-5.887620707968388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25616a839b5fb%3A0x549aba42a37f318!2sEsc.%20Mun.%20Nossa%20Senhora%20da%20Guia!5e0!3m2!1spt-PT!2sbr!4v1726060777084!5m2!1spt-PT!2sbr",
       studentAmount: 385,
     },
     {
@@ -716,7 +745,8 @@ export const schoolsPerNeighborhood = {
         contact: "98715-0199",
       },
       tag: "C. I.",
-      address: "Parque das Orquídeas",
+      address: "R. Profa. Maria Soliana, 142-168 - Emaús",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.8140797833294!2d-35.23619222405965!3d-5.881732557917694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257fd08f998bb%3A0xf38a3e9a34ebeb51!2sCMEI%20Prof.Francisca%20Reinaldo%20-%20PROINF%C3%82NCIA!5e0!3m2!1spt-PT!2sbr!4v1726060809613!5m2!1spt-PT!2sbr",
       studentAmount: 147,
     },
   ],
@@ -740,6 +770,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Rio das Contas, 178 – Parque Industrial",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.8009048116605!2d-35.242943724059714!3d-5.88357855793358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257bff0adfa03%3A0xf732109887b4d8bf!2sC.I.%20Mun.%20Romana%20Santiago!5e0!3m2!1spt-PT!2sbr!4v1726060874105!5m2!1spt-PT!2sbr",
       studentAmount: 223,
     },
     {
@@ -761,6 +792,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Avenida Rio Água Vermelha, 270 –Emaús",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.76760002835!2d-35.25227842405948!3d-5.888242457973727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256664e394aa5%3A0xb70df2b2a1e13a15!2sEsc.%20Mun.%20Administrador%20Josaf%C3%A1%20Sisino%20Machado!5e0!3m2!1spt-PT!2sbr!4v1726060922147!5m2!1spt-PT!2sbr",
       studentAmount: 250,
     },
     {
@@ -778,6 +810,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Aeroporto de Pelotas, 140 – Conj. Jardim Aeroporto – Emaús",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.824522623684!2d-35.25273572405943!3d-5.880268957905077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2567b1e323959%3A0x9b5b48356d9f4749!2sEsc.%20Mun.%20Manoel%20Machado!5e0!3m2!1spt-PT!2sbr!4v1726060970430!5m2!1spt-PT!2sbr",
       studentAmount: 503,
     },
     {
@@ -799,6 +832,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Rio Camaragibe, 215 – Emaús",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.7987161969377!2d-35.24234822405979!3d-5.883885157936189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2566db06145ff%3A0x8a7faa7b3b628ab1!2sEsc.%20Mun.%20Jorn.%20Rubens%20Manoel%20Lemos!5e0!3m2!1spt-PT!2sbr!4v1726061012885!5m2!1spt-PT!2sbr",
       studentAmount: 276,
     },
   ],
@@ -818,6 +852,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Silvia Bandeira de Melo, 370 - Parque de Exposições",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.7081096734128!2d-35.263932624059606!3d-5.896564158045506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256f7aaaaaaad%3A0xd7c696a84e8a880a!2sEscola%20Municipal%20Professora%20Eva%20L%C3%BAcia%20Bezerra%20de%20Mendon%C3%A7a!5e0!3m2!1spt-PT!2sbr!4v1726061050735!5m2!1spt-PT!2sbr",
       studentAmount: 145,
     },
     {
@@ -839,6 +874,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Aristófanes Fernandes, 38 - Parque de Exposições",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6440364230034!2d-35.26002602405944!3d-5.905513858122821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256557508f029%3A0x4da2d3514e83dad0!2sEsc.%20Mun.%20Prof%C2%AA%20Francisca%20de%20C.%20Avelino%20Batista!5e0!3m2!1spt-PT!2sbr!4v1726061143619!5m2!1spt-PT!2sbr",
       studentAmount: 142,
     },
   ],
@@ -862,6 +898,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Pedro Nunes Ferreira, 758 - Monte Castelo",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6054980904373!2d-35.27040812405935!3d-5.910890358169308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257030b421be1%3A0x6841cd28b6a9d084!2sEsc.%20Mun.%20Prof%C2%AA%20Francisca%20Fernandes%20da%20Rocha!5e0!3m2!1spt-PT!2sbr!4v1726061177332!5m2!1spt-PT!2sbr",
       studentAmount: 404,
     },
     {
@@ -883,11 +920,12 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Dr. Sadi Mendes, 20 – Monte Castelo",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6301984705506!2d-35.27118292405941!3d-5.907444958139499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25702989ced29%3A0x3c277da54cda7335!2sEsc.%20Mun.%20Prof%C2%AA%20Irene%20Soares%20da%20Silva!5e0!3m2!1spt-PT!2sbr!4v1726061222086!5m2!1spt-PT!2sbr",
       studentAmount: 303,
     },
     {
       id: 46,
-      name: "Íris de Almeida Matos",
+      name: " Profª Íris de Almeida Matos",
       phone: "3644-8330",
       mail: [
         "irisdealmeidamatos@gmail.com",
@@ -904,6 +942,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Feliciano Martins, 177– Monte Castelo",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6569695518383!2d-35.26845002405952!3d-5.903708458107181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256fc6a4abea9%3A0x11e7698c3ec2e660!2sEsc.%20Mun.%20Prof%C2%AA%20%C3%8Dris%20de%20Almeida%20Matos!5e0!3m2!1spt-PT!2sbr!4v1726061278818!5m2!1spt-PT!2sbr",
       studentAmount: 351,
     },
     {
@@ -921,6 +960,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua José Pinto, 185 – Monte Castelo",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6549819144434!2d-35.270602324059304!3d-5.903985958109572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256fcef32c209%3A0x898070f8ceb64478!2sEsc.%20Mun.%20Jos%C3%A9%20Fernandes!5e0!3m2!1spt-PT!2sbr!4v1726061316875!5m2!1spt-PT!2sbr",
       studentAmount: 0,
     },
     {
@@ -937,7 +977,8 @@ export const schoolsPerNeighborhood = {
         contact: "98827-8200",
       },
       tag: "E. M.",
-      address: "AV. BELA PARNAMIRIM",
+      address: "Av. Bela Parnamirim, 1175 - Vida Nova",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63498.490281124796!2d-35.309227005517464!3d-5.903893723411298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257c611c5960d%3A0xe6a1f0fe5a20ec34!2sEsc.%20Mun.%20Prof%C2%BA%20Luiz%20Maranh%C3%A3o%20Filho!5e0!3m2!1spt-PT!2sbr!4v1726061406375!5m2!1spt-PT!2sbr",
       studentAmount: 805,
     },
     {
@@ -959,6 +1000,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Av. Brigadeiro Trompowisk, SN – Monte Castelo",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6261510691365!2d-35.26590492405956!3d-5.90800965814436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257d2cf2506bd%3A0x17716a500c97a185!2sC.I.%20Mun.%20Maria%20Leonor%20Freitas%20do%20Nascimento!5e0!3m2!1spt-PT!2sbr!4v1726061454304!5m2!1spt-PT!2sbr",
       studentAmount: 275,
     },
     {
@@ -976,6 +1018,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Av. Joquei Clube, SN – Monte Castelo",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.725307617131!2d-35.2773639240595!3d-5.894159658024802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256eeb6fbce1d%3A0x4b9f4f8610c602e0!2sC.I.%20Mun.%20Jaci%20Ferreira%20de%20Castro!5e0!3m2!1spt-PT!2sbr!4v1726061607033!5m2!1spt-PT!2sbr",
       studentAmount: 132,
     },
   ],
@@ -998,7 +1041,8 @@ export const schoolsPerNeighborhood = {
         contact: "98830-2014",
       },
       tag: "C. I.",
-      address: "Rua Bagre – 01 – Jockey Clu",
+      address: "Rua Bagre – 01 – Jockey Clube",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6799384500173!2d-35.272563524059485!3d-5.90050075807949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256fad1173e91%3A0x1102310e7af7e88f!2sC.I.%20Mun.%20Iv%C3%A2nia%20Soraia%20da%20Costa!5e0!3m2!1spt-PT!2sbr!4v1726061853730!5m2!1spt-PT!2sbr",
       studentAmount: 216,
     },
   ],
@@ -1022,6 +1066,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Manoel Monteiro Filho, 720 Passagem de Areia",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.5798940261943!2d-35.28453640321044!3d-5.914459699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257181d9a5675%3A0x2712cd93e56deaa7!2sEsc.%20Mun.%20Prof%C2%BA%20Ant%C3%B4nio%20Bas%C3%ADlio%20Filho!5e0!3m2!1spt-PT!2sbr!4v1726062080648!5m2!1spt-PT!2sbr",
       studentAmount: 264,
     },
     {
@@ -1042,6 +1087,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Joaquim Alexandrino Saraiva, 565 - Passagem de Areia",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.5712993785432!2d-35.28005812405945!3d-5.915657358210623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25717a8a1e5f3%3A0x5474d51fde52139e!2sEsc.%20Mun.%20Senador%20Carlos%20Alberto%20de%20Souza!5e0!3m2!1spt-PT!2sbr!4v1726062126549!5m2!1spt-PT!2sbr",
       studentAmount: 622,
     },
     {
@@ -1059,6 +1105,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Rua Luiz Gomes, SN – Passagem de Areia",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.598628987535!2d-35.28638212405951!3d-5.911848158177629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25723b3148e1b%3A0xc75713475f8867a9!2sCMEI%20Maria%20do%20Socorro%20de%20Araujo%20Meneses!5e0!3m2!1spt-PT!2sbr!4v1726062160635!5m2!1spt-PT!2sbr",
       studentAmount: 257,
     },
     {
@@ -1080,6 +1127,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Antonio Moreira, 76 - Passagem de Areia",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6076142506095!2d-35.286964424059235!3d-5.910595258166781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25723d972f2dd%3A0x2f154eaffee5095!2sEscola%20Municipal%20Prof%C2%AA%20Luzanira%20M%C2%AA%20Da%20Costa%20Cruz%20%E2%80%93%20Ensino%20Fundamental%20I!5e0!3m2!1spt-PT!2sbr!4v1726062214207!5m2!1spt-PT!2sbr",
       studentAmount: 438,
     },
     {
@@ -1097,6 +1145,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Luiza Maria da Conceição Santiago, 560 - Passagem de Areia",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.5737545371544!2d-35.28562932405945!3d-5.915315258207619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257231c6d25fb%3A0xfaa8433c7baf8cd!2sEscola%20Municipal%20Em%C3%A9rito%20Nestor%20Lima!5e0!3m2!1spt-PT!2sbr!4v1726062249727!5m2!1spt-PT!2sbr",
       studentAmount: 775,
     },
     {
@@ -1118,6 +1167,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Canadá – 285 – Passagem de Areia",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.5737545371544!2d-35.28562932405945!3d-5.915315258207619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257236ed2c567%3A0xf8c2aa4e5a3d981d!2sEsc.%20Mun.%20Manoel%20Vicente%20de%20Paiva!5e0!3m2!1spt-PT!2sbr!4v1726062280188!5m2!1spt-PT!2sbr",
       studentAmount: 436,
     },
     {
@@ -1139,6 +1189,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Av. Presidente Getúlio Vargas, 2073 - Passagem de Areia",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6167531895276!2d-35.27761822405925!3d-5.909320658155715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2571b51a994f3%3A0xf688196aafcbebb!2sEsc.%20Mun.%20Osmundo%20Faria!5e0!3m2!1spt-PT!2sbr!4v1726062913652!5m2!1spt-PT!2sbr",
       studentAmount: 376,
     },
     {
@@ -1160,6 +1211,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Avenida Presidente Getúlio Vargas, 2073 – Passagem de Areia",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6229735136694!2d-35.279827824059424!3d-5.90845295814823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25704b732e1c9%3A0xc55392879119ca68!2sC.I.%20Mun.%20Etenize%20Xavier%20da%20Silva%20%C3%82ngelo!5e0!3m2!1spt-PT!2sbr!4v1726062944040!5m2!1spt-PT!2sbr",
       studentAmount: 197,
     },
     {
@@ -1177,6 +1229,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Rio Branco, 32 – Santa Tereza",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.5495233030797!2d-35.284217824059304!3d-5.918690758236894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2573de52eb68d%3A0x13ee0d6b6e51ba2d!2sEsc.%20Mun.%20C%C3%ADcero%20de%20Souza%20Melo!5e0!3m2!1spt-PT!2sbr!4v1726062978277!5m2!1spt-PT!2sbr",
       studentAmount: 411,
     },
   ],
@@ -1200,6 +1253,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Bandeira Júnior, 218 – Bela Parnamirim",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1444.2175473567947!2d-35.29004724054129!3d-5.915030620927151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257a7978ece9d%3A0x73a322bf4c1bd7e4!2sEsc.%20Mun.%20Maria%20Fernandes%20Saraiva!5e0!3m2!1spt-PT!2sbr!4v1726063058383!5m2!1spt-PT!2sbr",
       studentAmount: 697,
     },
     {
@@ -1220,7 +1274,8 @@ export const schoolsPerNeighborhood = {
         contact: "99636-0011",
       },
       tag: "C. I.",
-      address: "Rua Vereador Bandeira Junior, Bela Parnamirim",
+      address: "R. Bandeira Junior, 183 - Bela Parnamirim",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1984.2873925393658!2d-35.29034074837217!3d-5.915171657424715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2570073052163%3A0xa3ef57caca59a4cf!2zQ3JlY2hlIG3Do2Ugc2luaMOh!5e0!3m2!1spt-PT!2sbr!4v1726063171600!5m2!1spt-PT!2sbr",
       studentAmount: 259,
     },
     {
@@ -1241,7 +1296,8 @@ export const schoolsPerNeighborhood = {
         contact: "98723-9535",
       },
       tag: "C. I.",
-      address: "Rua Arvoredo, 9962 – Bela Parnamirim",
+      address: "R. das Butias, Parnamirim",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.60155017716!2d-35.291078924059384!3d-5.911440858174067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257dcf799d1d3%3A0x337de14c842d0588!2sCentro%20Infantil%20Professora%20Judith%20Aguiar!5e0!3m2!1spt-PT!2sbr!4v1726063308466!5m2!1spt-PT!2sbr",
       studentAmount: 178,
     },
   ],
@@ -1261,11 +1317,12 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Dr. Sadi Mendes, 977 – Santos Reis",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253903.04309426303!2d-35.40137222958833!3d-6.099013098658954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2571a86ca0311%3A0xd0afaa33e8ecee90!2sEsc.%20Mun.%20Maria%20do%20C%C3%A9u%20Fernandes!5e0!3m2!1spt-PT!2sbr!4v1726063398357!5m2!1spt-PT!2sbr",
       studentAmount: 628,
     },
     {
       id: 65,
-      name: "Pref José Augusto Nunes",
+      name: "Prefeito José Augusto Nunes",
       phone: "3644-8265",
       mail: [
         "emaugustonunes@gmail.com",
@@ -1283,6 +1340,7 @@ export const schoolsPerNeighborhood = {
 
       tag: "C. I.",
       address: "Rua Aspirante Santos, 1502 – Santos Reis",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.5710316780387!2d-35.27353912405957!3d-5.915694658210941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257100ad932cd%3A0xb1ec60e0a93c7212!2sEscola%20Municipal%20Prefeito%20Jos%C3%A9%20Augusto%20Nunes!5e0!3m2!1spt-PT!2sbr!4v1726063536666!5m2!1spt-PT!2sbr",
       studentAmount: 216,
     },
     {
@@ -1304,6 +1362,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "C. I.",
       address: "Av. Senador Duarte Filho, s/n – Santos Reis",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.5775844743025!2d-35.27754582405939!3d-5.91478155820297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b25717b5663cdd%3A0xd6726fd8ef5cc24c!2sC.M.E.I.%20Eug%C3%AAnia%20Palhares!5e0!3m2!1spt-PT!2sbr!4v1726063737251!5m2!1spt-PT!2sbr",
       studentAmount: 255,
     },
   ],
@@ -1323,6 +1382,7 @@ export const schoolsPerNeighborhood = {
       },
       tag: "E. M.",
       address: "Rua Belo Monte, s/n – Jardim Blumenau, Cajupiranga",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.3242620456044!2d-35.26368322405902!3d-5.9499791585088335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257f94dac40e5%3A0x53cae3d3bb3c4ec9!2sEsc.%20Mun.%20e%20Centro%20de%20Forma%C3%A7%C3%A3o%20Prof.%20Joana%20Alves%20de%20Lima!5e0!3m2!1spt-PT!2sbr!4v1726063800103!5m2!1spt-PT!2sbr",
       studentAmount: 140,
     },
   ],

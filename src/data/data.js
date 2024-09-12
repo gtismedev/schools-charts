@@ -295,6 +295,90 @@ export const schoolsPerNeighborhood = {
       map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.8140797833294!2d-35.23619222405965!3d-5.881732557917694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257fd08f998bb%3A0xf38a3e9a34ebeb51!2sCMEI%20Prof.Francisca%20Reinaldo%20-%20PROINF%C3%82NCIA!5e0!3m2!1spt-PT!2sbr!4v1726060809613!5m2!1spt-PT!2sbr",
       studentAmount: 147,
     },
+    {
+      id: 38,
+      name: "Romana Santiago",
+      phone: "3643-5509",
+      mail: [
+        "cmeiromanasantiago@gmail.com",
+        "cristiannusb7@gmail.com",
+        "elidialipe@gmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "CRISTIANNI SALES DE BRITO",
+        contact: "98837-6039",
+      },
+      admFinancialDirector: {
+        name: "ELIDIA FERREIRA FELIPE MOURA",
+        contact: "98141-4636",
+      },
+      tag: "C. I.",
+      address: "Rua Rio das Contas, 178 – Parque Industrial",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.8009048116605!2d-35.242943724059714!3d-5.88357855793358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257bff0adfa03%3A0xf732109887b4d8bf!2sC.I.%20Mun.%20Romana%20Santiago!5e0!3m2!1spt-PT!2sbr!4v1726060874105!5m2!1spt-PT!2sbr",
+      studentAmount: 223,
+    },
+    {
+      id: 39,
+      name: "Adm. Josafá Sisino Machado",
+      phone: "3644-8375",
+      mail: [
+        "admjosafasisinomachado@gmail.com",
+        "juvinacelia@gmail.com",
+        "profmarcelolbezerra@gmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "JUVINA CÉLIA COSTA DE SOUZA",
+        contact: "99933-6180",
+      },
+      admFinancialDirector: {
+        name: "MARCELO DE LIMA BEZERR",
+        contact: "99924-4569",
+      },
+      tag: "E. M.",
+      address: "Avenida Rio Água Vermelha, 270 –Emaús",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.76760002835!2d-35.25227842405948!3d-5.888242457973727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256664e394aa5%3A0xb70df2b2a1e13a15!2sEsc.%20Mun.%20Administrador%20Josaf%C3%A1%20Sisino%20Machado!5e0!3m2!1spt-PT!2sbr!4v1726060922147!5m2!1spt-PT!2sbr",
+      studentAmount: 250,
+    },
+    {
+      id: 40,
+      name: "Manoel Machado",
+      phone: "3644-8385",
+      mail: ["evanildoamocristo@yahoo.com.br", "pedroteixeiradelima@gmail.com"],
+      pedagogicalDirector: {
+        name: "PEDRO TEIXEIRA DE LIMA",
+        contact: "99865-1481",
+      },
+      admFinancialDirector: {
+        name: "EVANILDO COSTA DOS SANTOS",
+        contact: "98836-5507",
+      },
+      tag: "E. M.",
+      address: "Rua Aeroporto de Pelotas, 140 – Conj. Jardim Aeroporto – Emaús",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.824522623684!2d-35.25273572405943!3d-5.880268957905077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2567b1e323959%3A0x9b5b48356d9f4749!2sEsc.%20Mun.%20Manoel%20Machado!5e0!3m2!1spt-PT!2sbr!4v1726060970430!5m2!1spt-PT!2sbr",
+      studentAmount: 503,
+    },
+    {
+      id: 41,
+      name: "Jornalista Rubens Manuel Lemos",
+      phone: "3643-5485",
+      mail: [
+        "escolarubens2009lemos@hotmail.com",
+        "alcbosi3@gmail.com",
+        "pops_pp@hotmail.com",
+      ],
+      pedagogicalDirector: {
+        name: "POLLYANNA PEREIRA PINTO",
+        contact: "99940-4554",
+      },
+      admFinancialDirector: {
+        name: "ANA LURDES CARVALHO BOSI",
+        contact: "99622-4318",
+      },
+      tag: "E. M.",
+      address: "Rua Rio Camaragibe, 215 – Emaús",
+      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.7987161969377!2d-35.24234822405979!3d-5.883885157936189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2566db06145ff%3A0x8a7faa7b3b628ab1!2sEsc.%20Mun.%20Jorn.%20Rubens%20Manoel%20Lemos!5e0!3m2!1spt-PT!2sbr!4v1726061012885!5m2!1spt-PT!2sbr",
+      studentAmount: 276,
+    },
   ],
   "Encanto Verde": [],
   "Jardim Planalto": [
@@ -464,7 +548,7 @@ export const schoolsPerNeighborhood = {
       tag: "E. M.",
       address: "Rua José Pinto, 185 – Monte Castelo",
       map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.6549819144434!2d-35.270602324059304!3d-5.903985958109572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256fcef32c209%3A0x898070f8ceb64478!2sEsc.%20Mun.%20Jos%C3%A9%20Fernandes!5e0!3m2!1spt-PT!2sbr!4v1726061316875!5m2!1spt-PT!2sbr",
-      studentAmount: 0,
+      studentAmount: 210,
     },
     {
       id: 48,
@@ -766,92 +850,6 @@ export const schoolsPerNeighborhood = {
     },
   ],
   "Parque do Jiqui": [],
-  "Parque Industrial": [
-    {
-      id: 38,
-      name: "Romana Santiago",
-      phone: "3643-5509",
-      mail: [
-        "cmeiromanasantiago@gmail.com",
-        "cristiannusb7@gmail.com",
-        "elidialipe@gmail.com",
-      ],
-      pedagogicalDirector: {
-        name: "CRISTIANNI SALES DE BRITO",
-        contact: "98837-6039",
-      },
-      admFinancialDirector: {
-        name: "ELIDIA FERREIRA FELIPE MOURA",
-        contact: "98141-4636",
-      },
-      tag: "C. I.",
-      address: "Rua Rio das Contas, 178 – Parque Industrial",
-      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.8009048116605!2d-35.242943724059714!3d-5.88357855793358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b257bff0adfa03%3A0xf732109887b4d8bf!2sC.I.%20Mun.%20Romana%20Santiago!5e0!3m2!1spt-PT!2sbr!4v1726060874105!5m2!1spt-PT!2sbr",
-      studentAmount: 223,
-    },
-    {
-      id: 39,
-      name: "Adm. Josafá Sisino Machado",
-      phone: "3644-8375",
-      mail: [
-        "admjosafasisinomachado@gmail.com",
-        "juvinacelia@gmail.com",
-        "profmarcelolbezerra@gmail.com",
-      ],
-      pedagogicalDirector: {
-        name: "JUVINA CÉLIA COSTA DE SOUZA",
-        contact: "99933-6180",
-      },
-      admFinancialDirector: {
-        name: "MARCELO DE LIMA BEZERR",
-        contact: "99924-4569",
-      },
-      tag: "E. M.",
-      address: "Avenida Rio Água Vermelha, 270 –Emaús",
-      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.76760002835!2d-35.25227842405948!3d-5.888242457973727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b256664e394aa5%3A0xb70df2b2a1e13a15!2sEsc.%20Mun.%20Administrador%20Josaf%C3%A1%20Sisino%20Machado!5e0!3m2!1spt-PT!2sbr!4v1726060922147!5m2!1spt-PT!2sbr",
-      studentAmount: 250,
-    },
-    {
-      id: 40,
-      name: "Manoel Machado",
-      phone: "3644-8385",
-      mail: ["evanildoamocristo@yahoo.com.br", "pedroteixeiradelima@gmail.com"],
-      pedagogicalDirector: {
-        name: "PEDRO TEIXEIRA DE LIMA",
-        contact: "99865-1481",
-      },
-      admFinancialDirector: {
-        name: "EVANILDO COSTA DOS SANTOS",
-        contact: "98836-5507",
-      },
-      tag: "E. M.",
-      address: "Rua Aeroporto de Pelotas, 140 – Conj. Jardim Aeroporto – Emaús",
-      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.824522623684!2d-35.25273572405943!3d-5.880268957905077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2567b1e323959%3A0x9b5b48356d9f4749!2sEsc.%20Mun.%20Manoel%20Machado!5e0!3m2!1spt-PT!2sbr!4v1726060970430!5m2!1spt-PT!2sbr",
-      studentAmount: 503,
-    },
-    {
-      id: 41,
-      name: "Jornalista Rubens Manuel Lemos",
-      phone: "3643-5485",
-      mail: [
-        "escolarubens2009lemos@hotmail.com",
-        "alcbosi3@gmail.com",
-        "pops_pp@hotmail.com",
-      ],
-      pedagogicalDirector: {
-        name: "POLLYANNA PEREIRA PINTO",
-        contact: "99940-4554",
-      },
-      admFinancialDirector: {
-        name: "ANA LURDES CARVALHO BOSI",
-        contact: "99622-4318",
-      },
-      tag: "E. M.",
-      address: "Rua Rio Camaragibe, 215 – Emaús",
-      map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.7987161969377!2d-35.24234822405979!3d-5.883885157936189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2566db06145ff%3A0x8a7faa7b3b628ab1!2sEsc.%20Mun.%20Jorn.%20Rubens%20Manoel%20Lemos!5e0!3m2!1spt-PT!2sbr!4v1726061012885!5m2!1spt-PT!2sbr",
-      studentAmount: 276,
-    },
-  ],
   "Passagem de Areia": [
     {
       id: 52,
@@ -1134,7 +1132,7 @@ export const schoolsPerNeighborhood = {
       tag: "C. I.",
       address: "Av: Paulo Afonso – 193/ - Santos Reis",
       map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15874.534781777109!2d-35.28161413714019!3d-5.9069570113804115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b2571536393dc3%3A0x62b7af9e02f659dc!2sCMEI%20IVETE%20MARIA%20FERREIRA%20DA%20SILVA!5e0!3m2!1spt-PT!2sbr!4v1726056071392!5m2!1spt-PT!2sbr",
-      studentAmount: 0,
+      studentAmount: 148,
     },
   ],
   "Santos Reis": [

@@ -16,8 +16,8 @@
   margin-bottom: 4rem;
 }
 
-.container > .container__error {
-  font-size: 1.5rem;
+.container__error {
+  font-size: 1rem;
   margin-bottom: 2rem;
 }
 
@@ -42,4 +42,30 @@
 .container__button:hover{
   background-color: #1c3152;
   color: #fff;
+}
+
+@media only screen and (max-width: 767px) {
+  .container__erro-page {
+    min-height: 30vh;
+    padding-top: 1rem;
+  }
+
+  .container__erro-page > h1 {
+    font-size: 3rem;
+    line-height: 3.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .container__error {
+    font-size: .8rem;
+    margin-bottom: 1rem;
+  }
+
+  .container__button {
+    height: 2rem;
+    width: 3.5rem;
+    font-size: .8rem;
+  
+    margin-top: 2rem;
+  }
 }

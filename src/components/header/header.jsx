@@ -1,5 +1,6 @@
 import logoParnamirim from "../../assets/logo-parnamirim.svg";
 import logoGtiFundoBranco from "../../assets/logo-fundo-branco-texto.png";
+import logoSme from "../../assets/logo_sme.svg";
 
 import "./header.css";
 import { Link } from "react-router-dom";
@@ -22,6 +23,7 @@ export function Header() {
             alt="logo Parnamirim"
           />
         </Link>
+        <img src={logoSme} className="header__img--sme" alt="Logo da SME" />
       </div>
     </header>
   );

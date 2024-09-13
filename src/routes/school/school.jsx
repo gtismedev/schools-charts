@@ -11,8 +11,6 @@ function School() {
   const matches = useMatches();
   const params = matches[0].params.schoolId;
   const schoolId = params;
-  console.log("matches:", matches);
-  console.log("schoolId:", schoolId);
 
   let schoolData;
   for (const neighborhood in schoolsPerNeighborhood) {
@@ -20,11 +18,8 @@ function School() {
     schoolData = schoolsInNeighborhood.find(
       (school) => school.id == parseInt(schoolId, 10)
     );
-    console.log("schoolData:", schoolData);
     if (schoolData) break;
   }
-
-  console.log("schoolData:", schoolData);
 
   if (!schoolData) {
     return (

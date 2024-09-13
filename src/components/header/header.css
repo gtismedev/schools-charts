@@ -17,6 +17,10 @@
   width: 12rem;
 }
 
+.header__img--sme {
+  width: 2.5rem;
+}
+
 .header__img--year {
   width: 5rem;
 }
@@ -40,4 +44,22 @@
   align-items: center;
   justify-content: center;
   width: 16rem;
+}
+
+@media only screen and (max-width: 767px) {
+  .header {
+    padding: 0 1rem;
+  }
+
+  .header__img {
+    width: 8rem;
+  }
+  
+  .header__img--sme {
+    width: 1.5rem;
+  }
+
+  .header__img--logo {
+    width: 9rem;
+  }
 }

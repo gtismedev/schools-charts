@@ -22,7 +22,7 @@ export function NeighborhoodSection() {
   };
 
   return (
-    <div className="container">
+    <div className="container__neiborhood">
       <h2>Bairros:</h2>
       <div className="buttons">
         <button
@@ -52,11 +52,14 @@ export function NeighborhoodSection() {
       <div className="schools-table">
         {selectedSchools.length > 0 && (
           <table className="schools-table__info">
+            <caption style={captionStyle}>
+              EI - Educação infantil / EF - Ensino fundamental
+            </caption>
             <thead>
               <tr>
                 <th>Unidade</th>
-                <th>Tipo da unidade</th>
-                <th>Quantidade de alunos</th>
+                <th>Etapa Educativa</th>
+                <th>Qtd. de alunos</th>
                 <th></th>
               </tr>
             </thead>
@@ -64,7 +67,7 @@ export function NeighborhoodSection() {
               {selectedSchools.map((school) => (
                 <tr key={school.id}>
                   <td>{school.name}</td>
-                  <td>{school.tag}</td>
+                  <td>{school.stage}</td>
                   <td>{school.studentAmount}</td>
                   <td>
                     <Link
@@ -72,7 +75,7 @@ export function NeighborhoodSection() {
                       to={`escola/${school.id}`}
                       className="buttons__table"
                     >
-                      Ver unidade
+                      Unidade
                     </Link>
                   </td>
                 </tr>
@@ -88,4 +91,9 @@ export function NeighborhoodSection() {
 const linkStyle = {
   textDecoration: "none",
   padding: "5px",
+};
+
+const captionStyle = {
+  captionSide: "bottom",
+  padding: "10px",
 };

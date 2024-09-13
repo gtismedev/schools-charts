@@ -25,6 +25,7 @@ import "./chart.css";
 export function Chart() {
   const options = {
     responsive: true,
+    maintainAspectRatio: true,
   };
 
   return (

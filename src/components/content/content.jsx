@@ -17,7 +17,7 @@ export function Content() {
   return (
     <>
       <div className="title">
-        <h1>ParnaInfoEdu</h1>
+        <h1>Educação em Dados</h1>
         <p>Panorama da Rede Municipal de Ensino de Parnamirim</p>
       </div>
       <div className="content">

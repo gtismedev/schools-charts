@@ -11,11 +11,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "LEONARDO FERREIRA ATALIBA",
-        contact: "98103-1989",
       },
       admFinancialDirector: {
         name: "CARMI FERREIRA DA SILVA",
-        contact: "99694-8772",
       },
       stage: "EF",
       tag: "E. M.",
@@ -34,11 +32,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "GLEIDE DOS SANTOS CORTI",
-        contact: "99156-9473",
       },
       admFinancialDirector: {
         name: "DONALBA MARIA DE LIRA",
-        contact: "99636-0011",
       },
       stage: "EI",
       tag: "C. I.",
@@ -57,11 +53,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "PAULA GERMANNA FRANCO DANTAS",
-        contact: "98770-1939",
       },
       admFinancialDirector: {
         name: "ANA PAULA PEREIRA DE SOUZA",
-        contact: "98723-9535",
       },
       stage: "EI",
       tag: "C. I.",
@@ -82,11 +76,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "DORIENE RODRIGUES DA SILVA",
-        contact: "98814-5653",
       },
       admFinancialDirector: {
         name: "FRANCISCO PENY JÚNIOR",
-        contact: "98868-3222",
       },
       stage: "EF",
       tag: "E. M.",
@@ -108,11 +100,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "LILIAN MAGDA RUFINO",
-        contact: "99162-4475",
       },
       admFinancialDirector: {
         name: "LUCIANO STIKVENY SILVA LEITE",
-        contact: "99802-2990",
       },
       stage: "EF",
       tag: "E. M.",
@@ -127,11 +117,9 @@ export const schoolsPerNeighborhood = {
       mail: ["ci.djanira.mota@gmail.com", "laninhaka@yahoo.com.br"],
       pedagogicalDirector: {
         name: "FRANCISCA GILZETEDE FIGUEIREDO",
-        contact: "99961-2475",
       },
       admFinancialDirector: {
         name: "MARCILIO RICARDO DE OLIVEIRA",
-        contact: "99961-2475",
       },
       stage: "EI",
       tag: "C. I.",
@@ -146,11 +134,9 @@ export const schoolsPerNeighborhood = {
       mail: ["joanalvescola@gmail.com"],
       pedagogicalDirector: {
         name: "ALBERTO SATURNINO",
-        contact: "98137-9911",
       },
       admFinancialDirector: {
         name: "OLENIA AIDÊ LEAL DE MESQUITA",
-        contact: "999419366",
       },
       stage: "EF",
       tag: "E. M.",
@@ -171,11 +157,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "ABNER FLAVIO TEIXEIRA SOARES SOUTO",
-        contact: "99902-4134",
       },
       admFinancialDirector: {
         name: "MANASSES SILVA DE MOURA",
-        contact: "99909-6658",
       },
       stage: "EF",
       tag: "E. M.",
@@ -190,11 +174,9 @@ export const schoolsPerNeighborhood = {
       mail: ["Íris.karine@hotmail.com", "cirodias418@gmail.com"],
       pedagogicalDirector: {
         name: "CIRO DIAS",
-        contact: "99104-5379",
       },
       admFinancialDirector: {
         name: "ÍRIS KARINE GOMES",
-        contact: "99925-6324",
       },
       stage: "EF",
       tag: "E. M.",
@@ -209,11 +191,9 @@ export const schoolsPerNeighborhood = {
       mail: ["monikaporfirio@hotmail.com", "katialanzillo@hotmail.com"],
       pedagogicalDirector: {
         name: "MONIKA PORFIRIO NUNES PESSOA",
-        contact: "99860-1221",
       },
       admFinancialDirector: {
         name: "KATIA SUELY LANZILLO DE ALMEIDA NUNES",
-        contact: "98733-6094",
       },
       stage: "EI",
       tag: "C. I.",
@@ -234,11 +214,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "ANAILDE DE SOUZA FERREIRA",
-        contact: "99134-8990",
       },
       admFinancialDirector: {
         name: "ALCIMÁ MIGUEL DA SILVA",
-        contact: "99425-8713",
       },
       stage: "EF",
       tag: "E. M.",
@@ -255,11 +233,9 @@ export const schoolsPerNeighborhood = {
       mail: ["emmaurademoraes@gmail.com", "alinefchacon@gmail.com"],
       pedagogicalDirector: {
         name: "ALINE FREITAS CHACON",
-        contact: "99654-2484",
       },
       admFinancialDirector: {
         name: "KELLY MONALIZA BERNARDO FARACHE",
-        contact: "98730-7098",
       },
       stage: "EF",
       tag: "E. M.",
@@ -278,11 +254,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "LÚCIA ALEXANDRE DA SILVA VILAR",
-        contact: "98817-2758",
       },
       admFinancialDirector: {
         name: "MARLEIDE RODRIGUES DE FRANÇA OLIVEIRA",
-        contact: "99456-3359",
       },
       stage: "EI/EF",
       tag: "E. M.",
@@ -297,11 +271,9 @@ export const schoolsPerNeighborhood = {
       mail: ["juzeinefbf@gmail.com", "rochellycosta79@gmail.com"],
       pedagogicalDirector: {
         name: "JUZEINE FERNANDES BARRETO FLORENCIO DA SILVA",
-        contact: "98871-2066",
       },
       admFinancialDirector: {
         name: "ROCHELLY VERUSKA PEREIRA COSTA",
-        contact: "98715-0199",
       },
       stage: "EI",
       tag: "C. I.",
@@ -320,11 +292,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "CRISTIANNI SALES DE BRITO",
-        contact: "98837-6039",
       },
       admFinancialDirector: {
         name: "ELIDIA FERREIRA FELIPE MOURA",
-        contact: "98141-4636",
       },
       stage: "EI",
       tag: "C. I.",
@@ -343,11 +313,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "JUVINA CÉLIA COSTA DE SOUZA",
-        contact: "99933-6180",
       },
       admFinancialDirector: {
         name: "MARCELO DE LIMA BEZERR",
-        contact: "99924-4569",
       },
       stage: "EF",
       tag: "E. M.",
@@ -362,11 +330,9 @@ export const schoolsPerNeighborhood = {
       mail: ["evanildoamocristo@yahoo.com.br", "pedroteixeiradelima@gmail.com"],
       pedagogicalDirector: {
         name: "PEDRO TEIXEIRA DE LIMA",
-        contact: "99865-1481",
       },
       admFinancialDirector: {
         name: "EVANILDO COSTA DOS SANTOS",
-        contact: "98836-5507",
       },
       stage: "EF",
       tag: "E. M.",
@@ -385,11 +351,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "POLLYANNA PEREIRA PINTO",
-        contact: "99940-4554",
       },
       admFinancialDirector: {
         name: "ANA LURDES CARVALHO BOSI",
-        contact: "99622-4318",
       },
       stage: "EF",
       tag: "E. M.",
@@ -411,11 +375,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "FABIANA CRISTINE SILVA DE LIMA",
-        contact: "99901-2655",
       },
       admFinancialDirector: {
         name: "STANIA HELENA MONTENEGRO DA SILVA DE OLIVEIRA",
-        contact: "99981-6541",
       },
       stage: "EI",
       tag: "C. I.",
@@ -432,11 +394,9 @@ export const schoolsPerNeighborhood = {
       mail: ["ld_almeida@hotmail.com"],
       pedagogicalDirector: {
         name: "SILVANIA GOMES DE SENA",
-        contact: "99452-6635",
       },
       admFinancialDirector: {
         name: "Ana Raquel de Oliveira Souza",
-        contact: "",
       },
       stage: "EF",
       tag: "E. M.",
@@ -455,11 +415,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "MARINALVA TECIA DE LIRA XAVIER",
-        contact: "98812-8767",
       },
       admFinancialDirector: {
         name: "RENATO FRANCISCO",
-        contact: "99644-2712",
       },
       stage: "EF",
       tag: "E. M.",
@@ -474,11 +432,9 @@ export const schoolsPerNeighborhood = {
       mail: ["ld_almeida@hotmail.com"],
       pedagogicalDirector: {
         name: "JULIANA CATARINA DA MOTTA",
-        contact: "99207-2409",
       },
       admFinancialDirector: {
         name: "LARISSA DIAS DE ALMEIDA",
-        contact: "99951-4808",
       },
       stage: "EI",
       tag: "C. I.",
@@ -499,11 +455,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "JOSÉ EDNALDO DE ALMEIDA",
-        contact: "99982-8430",
       },
       admFinancialDirector: {
         name: "EUZÂNGELA GALVÃO DA COSTA",
-        contact: "98864-7025",
       },
       stage: "EF",
       tag: "E. M.",
@@ -522,11 +476,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "AÍDA SAHVEDRO T. DE BARROS",
-        contact: "99417-2319",
       },
       admFinancialDirector: {
         name: "FRANCISCO EDILSON DA SILVA",
-        contact: "99904-9251",
       },
       stage: "EF",
       tag: "E. M.",
@@ -545,11 +497,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "ELISÂNGELA GURGEL ROCHA LIMA",
-        contact: "99710-2896",
       },
       admFinancialDirector: {
         name: "HUGO EMANUEL CAMARA DE OLIVEIRA",
-        contact: "98783-0621",
       },
       stage: "EF",
       tag: "E. M.",
@@ -564,11 +514,9 @@ export const schoolsPerNeighborhood = {
       mail: ["emjosefernandesparnamirim@outlook.com"],
       pedagogicalDirector: {
         name: "IRACI BARBOSA DA FONSECA BEZERRA",
-        contact: "98854-2206",
       },
       admFinancialDirector: {
         name: "MARIA DE FÁTIMA SALES DINIZ RABELO",
-        contact: "99839-3887",
       },
       stage: "EF",
       tag: "E. M.",
@@ -583,11 +531,9 @@ export const schoolsPerNeighborhood = {
       mail: ["Avenida Bela Parnamirim, 1175 – Vida Nova"],
       pedagogicalDirector: {
         name: "ANDERSON ANDRÉ MARQUES",
-        contact: "98851-0474",
       },
       admFinancialDirector: {
         name: "LUIZ ANTONIO NORBERTO",
-        contact: "98827-8200",
       },
       stage: "EF",
       tag: "E. M.",
@@ -606,11 +552,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "ANA TEREZA DE OLIVEIRA PINTO",
-        contact: "98772-8250",
       },
       admFinancialDirector: {
         name: "RENATA PETRONILO BATISTA",
-        contact: "99933-0713",
       },
       stage: "EI",
       tag: "C. I.",
@@ -625,11 +569,9 @@ export const schoolsPerNeighborhood = {
       mail: ["alynebrito23@yahoo.com.br", "zenaidebarros03@gmail.com"],
       pedagogicalDirector: {
         name: "ZENAIDE BARROS CANDIDO",
-        contact: "98737-6130",
       },
       admFinancialDirector: {
         name: "ALYNE PATRICIA CRUZ DE BRITO",
-        contact: "99663-7880",
       },
       stage: "EI",
       tag: "C. I.",
@@ -646,11 +588,9 @@ export const schoolsPerNeighborhood = {
       mail: ["eulinaaugustaalmeida2017@gmail.com", "odairsds@gmail.com"],
       pedagogicalDirector: {
         name: "JOSELETE JARSCHEL CABRAL MARTINS",
-        contact: "98171-1822",
       },
       admFinancialDirector: {
         name: "ODAIR SOARES DE SOUZA",
-        contact: "99467-9154",
       },
       stage: "EI/EF",
       tag: "E. M.",
@@ -665,11 +605,9 @@ export const schoolsPerNeighborhood = {
       mail: ["escolamariadejesusdelima@gmail.com", "ronaldo.s.nc@hotmail.com"],
       pedagogicalDirector: {
         name: "RONALDO SOARES DE OLIVEIRA",
-        contact: "98896-7102",
       },
       admFinancialDirector: {
         name: "MÁRIO SÉRGIO QUIRINO DA SILVA",
-        contact: "98105-7879",
       },
       stage: "EF",
       tag: "E. M.",
@@ -688,11 +626,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "JOSELIA PRAXEDES DA SILVA",
-        contact: "98141-2815",
       },
       admFinancialDirector: {
         name: "ANDRESA SANTOS DE BRITO",
-        contact: "99657-4675",
       },
       stage: "EI",
       tag: "C. I.",
@@ -711,11 +647,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "MÔNICA RODRIGUES DOS SANTOS GOMES",
-        contact: "98114-2576",
       },
       admFinancialDirector: {
         name: "EDILBERTO CLEUTOM DOS SANTOS",
-        contact: "99627-0504",
       },
       stage: "EF",
       tag: "E. M.",
@@ -736,11 +670,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "MARILDA ELISANGELA DE CARVALHO ALMEIDA",
-        contact: "99182-4195",
       },
       admFinancialDirector: {
         name: "EDILBERTO COCENTINO BARRETO",
-        contact: "99925-6967",
       },
       stage: "EF",
       tag: "E. M.",
@@ -755,11 +687,9 @@ export const schoolsPerNeighborhood = {
       mail: ["melissa10sena@gmail.com", "billipolos@yahoo.com.br"],
       pedagogicalDirector: {
         name: "MELISSA KALINA DE SENA BEZERRA",
-        contact: "99930-1414",
       },
       admFinancialDirector: {
         name: "MARIA APARECIDA DA SILVA CAMPOS",
-        contact: "99428-2488",
       },
       stage: "EF",
       tag: "E. M.",
@@ -774,11 +704,9 @@ export const schoolsPerNeighborhood = {
       mail: ["ciluciamaria2018@gmail.com", "thaiskaroline1@hotmail.com"],
       pedagogicalDirector: {
         name: "THAÍS KAROLINE NASCIMENTO S. BEZERRA",
-        contact: "99484-7501",
       },
       admFinancialDirector: {
         name: "MÉRCIA JUSSARA DOS SANTOS",
-        contact: "98881-5540",
       },
       stage: "EI",
       tag: "C. I.",
@@ -793,11 +721,9 @@ export const schoolsPerNeighborhood = {
       mail: ["cmeimonicaalves1@gmail.com", "chelycmm@hotmail.com"],
       pedagogicalDirector: {
         name: "CRISTIANNY PAULA RIBEIRO ALVES",
-        contact: "99617-5276",
       },
       admFinancialDirector: {
         name: "EDJANE PINHEIRO RIBEIRO",
-        contact: "99617-1336",
       },
       stage: "EI",
       tag: "C. I.",
@@ -812,11 +738,9 @@ export const schoolsPerNeighborhood = {
       mail: ["embeg2014@gmail.com"],
       pedagogicalDirector: {
         name: "SÉRGIO CARVALHO DANTAS",
-        contact: "98809-0623",
       },
       admFinancialDirector: {
         name: "ARACELLI OLIVEIRA DA SILVA VIEGAS",
-        contact: "99829-5566",
       },
       stage: "EF",
       tag: "E. M.",
@@ -831,11 +755,9 @@ export const schoolsPerNeighborhood = {
       mail: ["emdrsadimendes@gmail.com", "sandrarejanes@yahoo.com.br"],
       pedagogicalDirector: {
         name: "SANDRA REJANE DE SOUZA",
-        contact: "99933-3551",
       },
       admFinancialDirector: {
         name: "KYRLA ALEXSANDRA GONÇALVES DE SOUZA",
-        contact: "98862-8680",
       },
       stage: "EF",
       tag: "E. M.",
@@ -854,11 +776,9 @@ export const schoolsPerNeighborhood = {
       mail: ["holanda.antonio@yahoo.com.br"],
       pedagogicalDirector: {
         name: "MARIA DAS GRAÇAS DA SILVA SANTOS",
-        contact: "98101-7757",
       },
       admFinancialDirector: {
         name: "ANTONIO LUIZ TERTO DE HOLANDA",
-        contact: "99146-5945",
       },
       stage: "EI/EF",
       tag: "E. M.",
@@ -877,11 +797,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "MARCOS TORRES CARNEIRO",
-        contact: "99626-8364",
       },
       admFinancialDirector: {
         name: "LUCAS PEREIRA DE ANDRADE SILVA",
-        contact: "99857-5051",
       },
       stage: "EI/EF",
       tag: "E. M.",
@@ -903,11 +821,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "ANNA CRISTINA DA SILVA LEANDRO",
-        contact: "99834-5546",
       },
       admFinancialDirector: {
         name: "MARIA SUELY LOURENCO DA SILVA",
-        contact: "98838-1575",
       },
       stage: "EF",
       tag: "E. M.",
@@ -925,11 +841,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "SANDRA MARIA DE LIMA DA SILVA",
-        contact: "98719-1491",
       },
       admFinancialDirector: {
         name: "JUDSON CÉSAR PEREIRA DOS SANTOS",
-        contact: "99495-3030",
       },
       stage: "EF",
       tag: "E. M.",
@@ -944,11 +858,9 @@ export const schoolsPerNeighborhood = {
       mail: ["lucialamaro@yahoo.com.br", "alexa_xandinha@hotmail.com"],
       pedagogicalDirector: {
         name: "ANA LUCIA DE LIRA",
-        contact: "98120-7300",
       },
       admFinancialDirector: {
         name: "ALEXANDRA BARBALHO RODRIGUES DOS SANTOS",
-        contact: "98897-9039",
       },
       stage: "EI",
       tag: "C. I.",
@@ -967,11 +879,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "VIVIAN KELLY DA TRINDADE RAMOS ANDRADE",
-        contact: "99699-4499",
       },
       admFinancialDirector: {
         name: "CARLOS ALEXANDRE FIRME DE OLIVEIRA",
-        contact: "98798-3953",
       },
       stage: "EF",
       tag: "E. M.",
@@ -986,11 +896,9 @@ export const schoolsPerNeighborhood = {
       mail: ["emmaurademoraes@gmail.com", "alinefchacon@gmail.com"],
       pedagogicalDirector: {
         name: "OSEANY MYKESIA DA COSTA",
-        contact: "98849-0282",
       },
       admFinancialDirector: {
         name: "AFONSO RIBEIRO DAMASCENO",
-        contact: "99155-9911",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1009,11 +917,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "LEANDRA ALMEIDA DA SILVA",
-        contact: "99880-5212",
       },
       admFinancialDirector: {
         name: "ELIANE AUXILIADORA DE LIRA",
-        contact: "99213-3555",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1032,11 +938,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "FRANCISCA VALDA VALCÁCIO",
-        contact: "99106-8143",
       },
       admFinancialDirector: {
         name: "FRANCISCA LÚCIA FRANÇA GARCIA",
-        contact: "99987-5329",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1055,11 +959,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "ELISABETH SPADINI",
-        contact: "99953-7762",
       },
       admFinancialDirector: {
         name: "JULIENE XAVIER DE MEDEIROS",
-        contact: "99657-8448",
       },
       stage: "EI",
       tag: "C. I.",
@@ -1074,11 +976,9 @@ export const schoolsPerNeighborhood = {
       mail: ["profairisprofissional@hotmail.com", "marilima33@hotmail.com"],
       pedagogicalDirector: {
         name: "IRISNARK WERIKA FURTUNATO ALVES",
-        contact: "99441-1806",
       },
       admFinancialDirector: {
         name: "MARIA DOS NAVEGANTES DE LIMA",
-        contact: "99833-6487",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1095,11 +995,9 @@ export const schoolsPerNeighborhood = {
       mail: ["marcilioricardo14@gmail.com", "izetefigueiredo@hotmail.com"],
       pedagogicalDirector: {
         name: "FRANCISCA GILZETE DE FIGUEIREDO",
-        contact: "99961-2475",
       },
       admFinancialDirector: {
         name: "MARCILIO RICARDO DE OLIVEIRA",
-        contact: "98835-5818",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1118,11 +1016,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "MARIA AUXILIADORA DE FREITAS MORAIS",
-        contact: "99426-1548",
       },
       admFinancialDirector: {
         name: "MARGARETE MARIA SANTOS DA SILVA",
-        contact: "98836-6278",
       },
       stage: "EI",
       tag: "C. I.",
@@ -1139,11 +1035,9 @@ export const schoolsPerNeighborhood = {
       mail: ["empjussiersantos@gmail.com", "edubernardo@gmail.com"],
       pedagogicalDirector: {
         name: "LIDIANE BEATRIZ RIBEIRO SOUSA DA SILVA",
-        contact: "98777-3417",
       },
       admFinancialDirector: {
         name: "EDUARDO BERNARDO",
-        contact: "99420-3464",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1158,11 +1052,9 @@ export const schoolsPerNeighborhood = {
       mail: ["emdsilvinobezerra@gmail.com"],
       pedagogicalDirector: {
         name: "VANESSA DE OLIVEIRA FERNANDES",
-        contact: "99467-8970",
       },
       admFinancialDirector: {
         name: "ANDREIA DOS SANTOS FERREIRA",
-        contact: "98873-9836",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1179,11 +1071,9 @@ export const schoolsPerNeighborhood = {
       mail: ["aasilvajrufrn@gmail.com", "celiasebah@gmail.com"],
       pedagogicalDirector: {
         name: "CELIA SEBASTIANADA COSTA BEZERRA",
-        contact: "98869-5478",
       },
       admFinancialDirector: {
         name: "ANTONIO ALFREDO DA SILVA JÚNIOR",
-        contact: "98800-8081",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1202,11 +1092,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "MARIA JOSÉ COSTA DA SILVA",
-        contact: "998784-0480",
       },
       admFinancialDirector: {
         name: "ARLÊNIA MARIA ROCHA",
-        contact: "99625-8150",
       },
 
       stage: "EI",
@@ -1226,11 +1114,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "PRISCILA FERNANDES DE OLIVEIRA TOSCANO",
-        contact: "99637-5551",
       },
       admFinancialDirector: {
         name: "ROSEMEIRE DO NASCIMENTO RIBEIRO",
-        contact: "99948-0922",
       },
       stage: "EI",
       tag: "C. I.",
@@ -1245,11 +1131,9 @@ export const schoolsPerNeighborhood = {
       mail: ["emdsilvinobezerra@gmail.com"],
       pedagogicalDirector: {
         name: "NORMA FERNANDES DOS SANTOS",
-        contact: "98167-1491",
       },
       admFinancialDirector: {
         name: "NELI BERNARDO DE ANDRADE",
-        contact: "99928-1011",
       },
       stage: "EI",
       tag: "C. I.",
@@ -1270,11 +1154,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "MERYSELMA TOMAZ PAULINO",
-        contact: "98705-3755",
       },
       admFinancialDirector: {
         name: "JOSIMAR ALVES FERREIRA",
-        contact: "99613-1089",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1289,11 +1171,9 @@ export const schoolsPerNeighborhood = {
       mail: ["cmeimariadilma@gmail.com", "jess92caroline@gmail.com"],
       pedagogicalDirector: {
         name: "MARIA PIEDADE TRINDADE DA SILVA",
-        contact: "98844-6006",
       },
       admFinancialDirector: {
         name: "FRANCICLEIDE MEIRY DA SILVA",
-        contact: "99207-1516",
       },
       stage: "EI",
       tag: "C. I.",
@@ -1312,11 +1192,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "MANUELLA MONTENEGRO VASCONCELOS",
-        contact: "99409-9418",
       },
       admFinancialDirector: {
         name: "PRISCILA KEILA DANTAS",
-        contact: "99698-3357",
       },
       stage: "EI",
       tag: "C. I.",
@@ -1331,11 +1209,9 @@ export const schoolsPerNeighborhood = {
       mail: ["almirdoca@hotmail.com", "augustocrezende@zipmail.com.br"],
       pedagogicalDirector: {
         name: "ALMIR CÉSAR TEIXEIRA FILHO",
-        contact: "98805-6148",
       },
       admFinancialDirector: {
         name: "AUGUSTO CÉSAR DA SILVA REZENDE",
-        contact: "99176-3992",
       },
       stage: "EI/EF",
       tag: "E. M.",
@@ -1356,11 +1232,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "MARIA AUXILIADORA MEDEIROS DE OLIVEIRA",
-        contact: "99820.9350",
       },
       admFinancialDirector: {
         name: "FLÁVIA LOPES GOMES",
-        contact: "98830-2014",
       },
       stage: "EI",
       tag: "C. I.",
@@ -1378,11 +1252,9 @@ export const schoolsPerNeighborhood = {
       mail: ["janicealmeida2103@yahoo.com.br", "nilsondenisia@yahoo.com.br"],
       pedagogicalDirector: {
         name: "NILSON FERNANDES REGO",
-        contact: "99210-1958",
       },
       admFinancialDirector: {
         name: "JANICE OLIVEIRA DE ALMEIDA",
-        contact: "98851-5115",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1397,11 +1269,9 @@ export const schoolsPerNeighborhood = {
       mail: ["cimliquinhaalves@gmail.com"],
       pedagogicalDirector: {
         name: "MARIA DE FATIMA MEDEIROS TRAJANO LIMA",
-        contact: "99431-7731",
       },
       admFinancialDirector: {
         name: "MARIA ROSÂNGELA DA SILVA",
-        contact: "98738-3058",
       },
       stage: "EI",
       tag: "C. I.",
@@ -1418,11 +1288,9 @@ export const schoolsPerNeighborhood = {
       mail: ["mariabeatrizvianaarruda@gmail.com", "jeaneamil@hotmail.com"],
       pedagogicalDirector: {
         name: "MARIA BEATRIZ VIANA ARRUDA",
-        contact: "98809-3063",
       },
       admFinancialDirector: {
         name: "JEANE CARLA DA SILVA LIMA ALENCAR",
-        contact: "99451-1206",
       },
       stage: "EF",
       tag: "E. M.",
@@ -1441,11 +1309,9 @@ export const schoolsPerNeighborhood = {
       ],
       pedagogicalDirector: {
         name: "KÁTIA SILVA",
-        contact: "99699-9692",
       },
       admFinancialDirector: {
         name: "ANA RAQUEL DE OLIVERIA SOUZA",
-        contact: "",
       },
       stage: "EI",
       tag: "C. I.",

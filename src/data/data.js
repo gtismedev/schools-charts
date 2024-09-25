@@ -9,12 +9,8 @@ export const schoolsPerNeighborhood = {
         "leonardo.ferreira.ataliba@gmail.com",
         "krmkrm@hotmail.com",
       ],
-      pedagogicalDirector: {
-        name: "LEONARDO FERREIRA ATALIBA",
-      },
-      admFinancialDirector: {
-        name: "CARMI FERREIRA DA SILVA",
-      },
+      pedagogicalDirector: "LEONARDO FERREIRA ATALIBA",
+      admFinancialDirector: "CARMI FERREIRA DA SILVA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Bandeira Júnior, 218 – Bela Parnamirim",
@@ -30,12 +26,8 @@ export const schoolsPerNeighborhood = {
         "gleidecorti@hotmail.com",
         "profdonalba@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "GLEIDE DOS SANTOS CORTI",
-      },
-      admFinancialDirector: {
-        name: "DONALBA MARIA DE LIRA",
-      },
+      pedagogicalDirector: "GLEIDE DOS SANTOS CORTI",
+      admFinancialDirector: "DONALBA MARIA DE LIRA",
       stage: "EI",
       tag: "C. I.",
       address: "R. Bandeira Junior, 183 - Bela Parnamirim",
@@ -51,12 +43,8 @@ export const schoolsPerNeighborhood = {
         "pauladantas@hotmail.com",
         "anapaulapereiraj5@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "PAULA GERMANNA FRANCO DANTAS",
-      },
-      admFinancialDirector: {
-        name: "ANA PAULA PEREIRA DE SOUZA",
-      },
+      pedagogicalDirector: "PAULA GERMANNA FRANCO DANTAS",
+      admFinancialDirector: "ANA PAULA PEREIRA DE SOUZA",
       stage: "EI",
       tag: "C. I.",
       address: "R. das Butias, Parnamirim",
@@ -74,12 +62,8 @@ export const schoolsPerNeighborhood = {
         "doriluz88@hotmail.com",
         "franciscopenyjunior@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "DORIENE RODRIGUES DA SILVA",
-      },
-      admFinancialDirector: {
-        name: "FRANCISCO PENY JÚNIOR",
-      },
+      pedagogicalDirector: "DORIENE RODRIGUES DA SILVA",
+      admFinancialDirector: "FRANCISCO PENY JÚNIOR",
       stage: "EF",
       tag: "E. M.",
       address:
@@ -98,12 +82,8 @@ export const schoolsPerNeighborhood = {
         "rufinolimamagda@yahoo.com.br",
         "boxcarservico@hotmail.com",
       ],
-      pedagogicalDirector: {
-        name: "LILIAN MAGDA RUFINO",
-      },
-      admFinancialDirector: {
-        name: "LUCIANO STIKVENY SILVA LEITE",
-      },
+      pedagogicalDirector: "LILIAN MAGDA RUFINO",
+      admFinancialDirector: "LUCIANO STIKVENY SILVA LEITE",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Dayana Nascimento da Silva, 170 - Cajupiranga",
@@ -115,12 +95,8 @@ export const schoolsPerNeighborhood = {
       name: "CMEI Djanira Freire da Mota",
       phone: "3272-9259",
       mail: ["ci.djanira.mota@gmail.com", "laninhaka@yahoo.com.br"],
-      pedagogicalDirector: {
-        name: "FRANCISCA GILZETEDE FIGUEIREDO",
-      },
-      admFinancialDirector: {
-        name: "MARCILIO RICARDO DE OLIVEIRA",
-      },
+      pedagogicalDirector: "FRANCISCA GILZETEDE FIGUEIREDO",
+      admFinancialDirector: "MARCILIO RICARDO DE OLIVEIRA",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Trinta e Quatro, SN – Cajupiranga",
@@ -132,12 +108,8 @@ export const schoolsPerNeighborhood = {
       name: "Escola municipal e centro de formação Prof. Joana Alves de Lima",
       phone: "3645-7072",
       mail: ["joanalvescola@gmail.com"],
-      pedagogicalDirector: {
-        name: "ALBERTO SATURNINO",
-      },
-      admFinancialDirector: {
-        name: "OLENIA AIDÊ LEAL DE MESQUITA",
-      },
+      pedagogicalDirector: "ALBERTO SATURNINO",
+      admFinancialDirector: "OLENIA AIDÊ LEAL DE MESQUITA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Belo Monte, s/n – Jardim Blumenau, Cajupiranga",
@@ -155,12 +127,8 @@ export const schoolsPerNeighborhood = {
         "abnerflavio@gmail.com",
         "manassesmsm20@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "ABNER FLAVIO TEIXEIRA SOARES SOUTO",
-      },
-      admFinancialDirector: {
-        name: "MANASSES SILVA DE MOURA",
-      },
+      pedagogicalDirector: "ABNER FLAVIO TEIXEIRA SOARES SOUTO",
+      admFinancialDirector: "MANASSES SILVA DE MOURA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Sargento Norberto Marques, 158 Centro",
@@ -172,12 +140,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Pres. Artur da Costa e Siva",
       phone: "3644-8255",
       mail: ["Íris.karine@hotmail.com", "cirodias418@gmail.com"],
-      pedagogicalDirector: {
-        name: "CIRO DIAS",
-      },
-      admFinancialDirector: {
-        name: "ÍRIS KARINE GOMES",
-      },
+      pedagogicalDirector: "CIRO DIAS",
+      admFinancialDirector: "ÍRIS KARINE GOMES",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Sargento Norberto Marques, 690, Centro",
@@ -189,12 +153,8 @@ export const schoolsPerNeighborhood = {
       name: "Centro Infantil Prof Ivone Maria dos Santos",
       phone: "3644-8219",
       mail: ["monikaporfirio@hotmail.com", "katialanzillo@hotmail.com"],
-      pedagogicalDirector: {
-        name: "MONIKA PORFIRIO NUNES PESSOA",
-      },
-      admFinancialDirector: {
-        name: "KATIA SUELY LANZILLO DE ALMEIDA NUNES",
-      },
+      pedagogicalDirector: "MONIKA PORFIRIO NUNES PESSOA",
+      admFinancialDirector: "KATIA SUELY LANZILLO DE ALMEIDA NUNES",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Sargento Norberto Marques, 182 – Centro",
@@ -212,12 +172,8 @@ export const schoolsPerNeighborhood = {
         "anaildeasf@hotmail.com",
         "elis.rj@hotmail.com",
       ],
-      pedagogicalDirector: {
-        name: "ANAILDE DE SOUZA FERREIRA",
-      },
-      admFinancialDirector: {
-        name: "ALCIMÁ MIGUEL DA SILVA",
-      },
+      pedagogicalDirector: "ANAILDE DE SOUZA FERREIRA",
+      admFinancialDirector: "ALCIMÁ MIGUEL DA SILVA",
       stage: "EF",
       tag: "E. M.",
       address: "Avenida Castor Vieira Regis, 424 - Cohabinal",
@@ -231,12 +187,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Maura de Morais Cruz",
       phone: "3644-8365",
       mail: ["emmaurademoraes@gmail.com", "alinefchacon@gmail.com"],
-      pedagogicalDirector: {
-        name: "ALINE FREITAS CHACON",
-      },
-      admFinancialDirector: {
-        name: "KELLY MONALIZA BERNARDO FARACHE",
-      },
+      pedagogicalDirector: "ALINE FREITAS CHACON",
+      admFinancialDirector: "KELLY MONALIZA BERNARDO FARACHE",
       stage: "EF",
       tag: "E. M.",
       address: "Rua São João, 36 – Emaús",
@@ -252,12 +204,8 @@ export const schoolsPerNeighborhood = {
         "luciaalexandrevl@gmail.com",
         "marleyoliv@yahoo.com.br",
       ],
-      pedagogicalDirector: {
-        name: "LÚCIA ALEXANDRE DA SILVA VILAR",
-      },
-      admFinancialDirector: {
-        name: "MARLEIDE RODRIGUES DE FRANÇA OLIVEIRA",
-      },
+      pedagogicalDirector: "LÚCIA ALEXANDRE DA SILVA VILAR",
+      admFinancialDirector: "MARLEIDE RODRIGUES DE FRANÇA OLIVEIRA",
       stage: "EI/EF",
       tag: "E. M.",
       address: "Travessa Nossa Senhora da Guia, 30 - Emaús",
@@ -269,12 +217,8 @@ export const schoolsPerNeighborhood = {
       name: "Centro Infantil Prof. Francisca Reinaldo",
       phone: "",
       mail: ["juzeinefbf@gmail.com", "rochellycosta79@gmail.com"],
-      pedagogicalDirector: {
-        name: "JUZEINE FERNANDES BARRETO FLORENCIO DA SILVA",
-      },
-      admFinancialDirector: {
-        name: "ROCHELLY VERUSKA PEREIRA COSTA",
-      },
+      pedagogicalDirector: "JUZEINE FERNANDES BARRETO FLORENCIO DA SILVA",
+      admFinancialDirector: "ROCHELLY VERUSKA PEREIRA COSTA",
       stage: "EI",
       tag: "C. I.",
       address: "R. Profa. Maria Soliana, 142-168 - Emaús",
@@ -290,12 +234,8 @@ export const schoolsPerNeighborhood = {
         "cristiannusb7@gmail.com",
         "elidialipe@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "CRISTIANNI SALES DE BRITO",
-      },
-      admFinancialDirector: {
-        name: "ELIDIA FERREIRA FELIPE MOURA",
-      },
+      pedagogicalDirector: "CRISTIANNI SALES DE BRITO",
+      admFinancialDirector: "ELIDIA FERREIRA FELIPE MOURA",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Rio das Contas, 178 – Parque Industrial",
@@ -311,12 +251,8 @@ export const schoolsPerNeighborhood = {
         "juvinacelia@gmail.com",
         "profmarcelolbezerra@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "JUVINA CÉLIA COSTA DE SOUZA",
-      },
-      admFinancialDirector: {
-        name: "MARCELO DE LIMA BEZERR",
-      },
+      pedagogicalDirector: "JUVINA CÉLIA COSTA DE SOUZA",
+      admFinancialDirector: "MARCELO DE LIMA BEZERR",
       stage: "EF",
       tag: "E. M.",
       address: "Avenida Rio Água Vermelha, 270 –Emaús",
@@ -328,12 +264,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Manoel Machado",
       phone: "3644-8385",
       mail: ["evanildoamocristo@yahoo.com.br", "pedroteixeiradelima@gmail.com"],
-      pedagogicalDirector: {
-        name: "PEDRO TEIXEIRA DE LIMA",
-      },
-      admFinancialDirector: {
-        name: "EVANILDO COSTA DOS SANTOS",
-      },
+      pedagogicalDirector: "PEDRO TEIXEIRA DE LIMA",
+      admFinancialDirector: "EVANILDO COSTA DOS SANTOS",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Aeroporto de Pelotas, 140 – Conj. Jardim Aeroporto – Emaús",
@@ -349,12 +281,8 @@ export const schoolsPerNeighborhood = {
         "alcbosi3@gmail.com",
         "pops_pp@hotmail.com",
       ],
-      pedagogicalDirector: {
-        name: "POLLYANNA PEREIRA PINTO",
-      },
-      admFinancialDirector: {
-        name: "ANA LURDES CARVALHO BOSI",
-      },
+      pedagogicalDirector: "POLLYANNA PEREIRA PINTO",
+      admFinancialDirector: "ANA LURDES CARVALHO BOSI",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Rio Camaragibe, 215 – Emaús",
@@ -373,12 +301,8 @@ export const schoolsPerNeighborhood = {
         "fabianaslima1980@gmail.com",
         "professorastania@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "FABIANA CRISTINE SILVA DE LIMA",
-      },
-      admFinancialDirector: {
-        name: "STANIA HELENA MONTENEGRO DA SILVA DE OLIVEIRA",
-      },
+      pedagogicalDirector: "FABIANA CRISTINE SILVA DE LIMA",
+      admFinancialDirector: "STANIA HELENA MONTENEGRO DA SILVA DE OLIVEIRA",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Salgueiro, 170 – Jardim Planalto",
@@ -392,12 +316,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Prof Francisca Bezerra de Souza",
       phone: "3644-8305",
       mail: ["ld_almeida@hotmail.com"],
-      pedagogicalDirector: {
-        name: "SILVANIA GOMES DE SENA",
-      },
-      admFinancialDirector: {
-        name: "Ana Raquel de Oliveira Souza",
-      },
+      pedagogicalDirector: "SILVANIA GOMES DE SENA",
+      admFinancialDirector: "Ana Raquel de Oliveira Souza",
       stage: "EF",
       tag: "E. M.",
       address: "Rua José Álvares Maciel, 215 Liberdade",
@@ -413,12 +333,8 @@ export const schoolsPerNeighborhood = {
         "marinalva_tecia@uahoo.com.br",
         "natofran@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "MARINALVA TECIA DE LIRA XAVIER",
-      },
-      admFinancialDirector: {
-        name: "RENATO FRANCISCO",
-      },
+      pedagogicalDirector: "MARINALVA TECIA DE LIRA XAVIER",
+      admFinancialDirector: "RENATO FRANCISCO",
       stage: "EF",
       tag: "E. M.",
       address: "Rua José Bonifácio, 395 – Liberdade",
@@ -430,12 +346,8 @@ export const schoolsPerNeighborhood = {
       name: "CMEI Joanita Arruda Câmara",
       phone: "3644-8208",
       mail: ["ld_almeida@hotmail.com"],
-      pedagogicalDirector: {
-        name: "JULIANA CATARINA DA MOTTA",
-      },
-      admFinancialDirector: {
-        name: "LARISSA DIAS DE ALMEIDA",
-      },
+      pedagogicalDirector: "JULIANA CATARINA DA MOTTA",
+      admFinancialDirector: "LARISSA DIAS DE ALMEIDA",
       stage: "EI",
       tag: "C. I.",
       address: "Rua José Bonifácio, SN – Liberdade",
@@ -453,12 +365,8 @@ export const schoolsPerNeighborhood = {
         "nosbar_fax@hotmail.com",
         "eusangelagalvao@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "JOSÉ EDNALDO DE ALMEIDA",
-      },
-      admFinancialDirector: {
-        name: "EUZÂNGELA GALVÃO DA COSTA",
-      },
+      pedagogicalDirector: "JOSÉ EDNALDO DE ALMEIDA",
+      admFinancialDirector: "EUZÂNGELA GALVÃO DA COSTA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Pedro Nunes Ferreira, 758 - Monte Castelo",
@@ -474,12 +382,8 @@ export const schoolsPerNeighborhood = {
         "aidinhasahvedro2013@gmail.com",
         "pastordilson.50@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "AÍDA SAHVEDRO T. DE BARROS",
-      },
-      admFinancialDirector: {
-        name: "FRANCISCO EDILSON DA SILVA",
-      },
+      pedagogicalDirector: "AÍDA SAHVEDRO T. DE BARROS",
+      admFinancialDirector: "FRANCISCO EDILSON DA SILVA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Dr. Sadi Mendes, 20 – Monte Castelo",
@@ -495,12 +399,8 @@ export const schoolsPerNeighborhood = {
         "darcleireistabanela@gmail.com",
         "immanueloped@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "ELISÂNGELA GURGEL ROCHA LIMA",
-      },
-      admFinancialDirector: {
-        name: "HUGO EMANUEL CAMARA DE OLIVEIRA",
-      },
+      pedagogicalDirector: "ELISÂNGELA GURGEL ROCHA LIMA",
+      admFinancialDirector: "HUGO EMANUEL CAMARA DE OLIVEIRA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Feliciano Martins, 177– Monte Castelo",
@@ -512,12 +412,8 @@ export const schoolsPerNeighborhood = {
       name: "EM José Fernandes",
       phone: "3644-8390",
       mail: ["emjosefernandesparnamirim@outlook.com"],
-      pedagogicalDirector: {
-        name: "IRACI BARBOSA DA FONSECA BEZERRA",
-      },
-      admFinancialDirector: {
-        name: "MARIA DE FÁTIMA SALES DINIZ RABELO",
-      },
+      pedagogicalDirector: "IRACI BARBOSA DA FONSECA BEZERRA",
+      admFinancialDirector: "MARIA DE FÁTIMA SALES DINIZ RABELO",
       stage: "EF",
       tag: "E. M.",
       address: "Rua José Pinto, 185 – Monte Castelo",
@@ -529,12 +425,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Prof. Luiz Maranhão Filho",
       phone: "3644-8523",
       mail: ["Avenida Bela Parnamirim, 1175 – Vida Nova"],
-      pedagogicalDirector: {
-        name: "ANDERSON ANDRÉ MARQUES",
-      },
-      admFinancialDirector: {
-        name: "LUIZ ANTONIO NORBERTO",
-      },
+      pedagogicalDirector: "ANDERSON ANDRÉ MARQUES",
+      admFinancialDirector: "LUIZ ANTONIO NORBERTO",
       stage: "EF",
       tag: "E. M.",
       address: "Av. Bela Parnamirim, 1175 - Vida Nova",
@@ -550,12 +442,8 @@ export const schoolsPerNeighborhood = {
         "anateresa1411@gmail.com",
         "renapetrol@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "ANA TEREZA DE OLIVEIRA PINTO",
-      },
-      admFinancialDirector: {
-        name: "RENATA PETRONILO BATISTA",
-      },
+      pedagogicalDirector: "ANA TEREZA DE OLIVEIRA PINTO",
+      admFinancialDirector: "RENATA PETRONILO BATISTA",
       stage: "EI",
       tag: "C. I.",
       address: "Av. Brigadeiro Trompowisk, SN – Monte Castelo",
@@ -567,12 +455,8 @@ export const schoolsPerNeighborhood = {
       name: "CMEI Jaci Ferreira de Castro",
       phone: "3643-6977",
       mail: ["alynebrito23@yahoo.com.br", "zenaidebarros03@gmail.com"],
-      pedagogicalDirector: {
-        name: "ZENAIDE BARROS CANDIDO",
-      },
-      admFinancialDirector: {
-        name: "ALYNE PATRICIA CRUZ DE BRITO",
-      },
+      pedagogicalDirector: "ZENAIDE BARROS CANDIDO",
+      admFinancialDirector: "ALYNE PATRICIA CRUZ DE BRITO",
       stage: "EI",
       tag: "C. I.",
       address: "Av. Joquei Clube, SN – Monte Castelo",
@@ -586,12 +470,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Prof. Eulina Augusta de Almeida",
       phone: "3644-8280",
       mail: ["eulinaaugustaalmeida2017@gmail.com", "odairsds@gmail.com"],
-      pedagogicalDirector: {
-        name: "JOSELETE JARSCHEL CABRAL MARTINS",
-      },
-      admFinancialDirector: {
-        name: "ODAIR SOARES DE SOUZA",
-      },
+      pedagogicalDirector: "JOSELETE JARSCHEL CABRAL MARTINS",
+      admFinancialDirector: "ODAIR SOARES DE SOUZA",
       stage: "EI/EF",
       tag: "E. M.",
       address: "Rua São Vicente, 305 - Nova Esperança",
@@ -603,12 +483,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Maria de Jesus Medeiros de Lima",
       phone: "3272-6490",
       mail: ["escolamariadejesusdelima@gmail.com", "ronaldo.s.nc@hotmail.com"],
-      pedagogicalDirector: {
-        name: "RONALDO SOARES DE OLIVEIRA",
-      },
-      admFinancialDirector: {
-        name: "MÁRIO SÉRGIO QUIRINO DA SILVA",
-      },
+      pedagogicalDirector: "RONALDO SOARES DE OLIVEIRA",
+      admFinancialDirector: "MÁRIO SÉRGIO QUIRINO DA SILVA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua João Januário de Carvalho, 120 - Nova Esperança",
@@ -624,12 +500,8 @@ export const schoolsPerNeighborhood = {
         "joselia.praxedes@hotmail.com",
         "andresa-brito@hotmail.com",
       ],
-      pedagogicalDirector: {
-        name: "JOSELIA PRAXEDES DA SILVA",
-      },
-      admFinancialDirector: {
-        name: "ANDRESA SANTOS DE BRITO",
-      },
+      pedagogicalDirector: "JOSELIA PRAXEDES DA SILVA",
+      admFinancialDirector: "ANDRESA SANTOS DE BRITO",
       stage: "EI",
       tag: "C. I.",
       address: "Rua São Paulo, SN – Nova Esperança",
@@ -645,12 +517,8 @@ export const schoolsPerNeighborhood = {
         "msg.rn@hotmail.com",
         "sandraedrl@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "MÔNICA RODRIGUES DOS SANTOS GOMES",
-      },
-      admFinancialDirector: {
-        name: "EDILBERTO CLEUTOM DOS SANTOS",
-      },
+      pedagogicalDirector: "MÔNICA RODRIGUES DOS SANTOS GOMES",
+      admFinancialDirector: "EDILBERTO CLEUTOM DOS SANTOS",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Santa Adelaide, 345 – Nova Esperança",
@@ -668,12 +536,8 @@ export const schoolsPerNeighborhood = {
         "profedilberto@hotmail.com",
         "medecarvalho18@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "MARILDA ELISANGELA DE CARVALHO ALMEIDA",
-      },
-      admFinancialDirector: {
-        name: "EDILBERTO COCENTINO BARRETO",
-      },
+      pedagogicalDirector: "MARILDA ELISANGELA DE CARVALHO ALMEIDA",
+      admFinancialDirector: "EDILBERTO COCENTINO BARRETO",
       stage: "EF",
       tag: "E. M.",
       address: "Avenida Gandhi, 479 – Nova Parnamirim",
@@ -685,12 +549,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Maria Francinete Gonçalves Maia",
       phone: "3208-4318",
       mail: ["melissa10sena@gmail.com", "billipolos@yahoo.com.br"],
-      pedagogicalDirector: {
-        name: "MELISSA KALINA DE SENA BEZERRA",
-      },
-      admFinancialDirector: {
-        name: "MARIA APARECIDA DA SILVA CAMPOS",
-      },
+      pedagogicalDirector: "MELISSA KALINA DE SENA BEZERRA",
+      admFinancialDirector: "MARIA APARECIDA DA SILVA CAMPOS",
       stage: "EF",
       tag: "E. M.",
       address: "Esplanada Deputado Nélio Dias, 1500 - Nova Parnamirim",
@@ -702,12 +562,8 @@ export const schoolsPerNeighborhood = {
       name: "Centro Infantil Prof Lúcia Maria dos Santos",
       phone: "3615-3428",
       mail: ["ciluciamaria2018@gmail.com", "thaiskaroline1@hotmail.com"],
-      pedagogicalDirector: {
-        name: "THAÍS KAROLINE NASCIMENTO S. BEZERRA",
-      },
-      admFinancialDirector: {
-        name: "MÉRCIA JUSSARA DOS SANTOS",
-      },
+      pedagogicalDirector: "THAÍS KAROLINE NASCIMENTO S. BEZERRA",
+      admFinancialDirector: "MÉRCIA JUSSARA DOS SANTOS",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Santa Luzia, 19 – Nova Parnamirim",
@@ -719,12 +575,8 @@ export const schoolsPerNeighborhood = {
       name: "CMEI Mônica Alves do Amaral",
       phone: "3208-9543",
       mail: ["cmeimonicaalves1@gmail.com", "chelycmm@hotmail.com"],
-      pedagogicalDirector: {
-        name: "CRISTIANNY PAULA RIBEIRO ALVES",
-      },
-      admFinancialDirector: {
-        name: "EDJANE PINHEIRO RIBEIRO",
-      },
+      pedagogicalDirector: "CRISTIANNY PAULA RIBEIRO ALVES",
+      admFinancialDirector: "EDJANE PINHEIRO RIBEIRO",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Avelós, SN – Nova Parnamirim",
@@ -736,12 +588,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Brigadeiro Eduardo Gomes",
       phone: "3208-9597",
       mail: ["embeg2014@gmail.com"],
-      pedagogicalDirector: {
-        name: "SÉRGIO CARVALHO DANTAS",
-      },
-      admFinancialDirector: {
-        name: "ARACELLI OLIVEIRA DA SILVA VIEGAS",
-      },
+      pedagogicalDirector: "SÉRGIO CARVALHO DANTAS",
+      admFinancialDirector: "ARACELLI OLIVEIRA DA SILVA VIEGAS",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Avelós, 185 – Cidade Verde, Nova Parnamirim",
@@ -753,12 +601,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Dr. Sadi Mendes Sobreira",
       phone: "3615-3427",
       mail: ["emdrsadimendes@gmail.com", "sandrarejanes@yahoo.com.br"],
-      pedagogicalDirector: {
-        name: "SANDRA REJANE DE SOUZA",
-      },
-      admFinancialDirector: {
-        name: "KYRLA ALEXSANDRA GONÇALVES DE SOUZA",
-      },
+      pedagogicalDirector: "SANDRA REJANE DE SOUZA",
+      admFinancialDirector: "KYRLA ALEXSANDRA GONÇALVES DE SOUZA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Santa Luzia, 214 – Nova Parnamirim",
@@ -774,12 +618,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Eva Lúcia Bezerra de Mendonça",
       phone: "3643-6614",
       mail: ["holanda.antonio@yahoo.com.br"],
-      pedagogicalDirector: {
-        name: "MARIA DAS GRAÇAS DA SILVA SANTOS",
-      },
-      admFinancialDirector: {
-        name: "ANTONIO LUIZ TERTO DE HOLANDA",
-      },
+      pedagogicalDirector: "MARIA DAS GRAÇAS DA SILVA SANTOS",
+      admFinancialDirector: "ANTONIO LUIZ TERTO DE HOLANDA",
       stage: "EI/EF",
       tag: "E. M.",
       address: "Rua Silvia Bandeira de Melo, 370 - Parque de Exposições",
@@ -795,12 +635,8 @@ export const schoolsPerNeighborhood = {
         "torrescarneiro@gmail.com",
         "e_sia_ht@yahoo.com.br",
       ],
-      pedagogicalDirector: {
-        name: "MARCOS TORRES CARNEIRO",
-      },
-      admFinancialDirector: {
-        name: "LUCAS PEREIRA DE ANDRADE SILVA",
-      },
+      pedagogicalDirector: "MARCOS TORRES CARNEIRO",
+      admFinancialDirector: "LUCAS PEREIRA DE ANDRADE SILVA",
       stage: "EI/EF",
       tag: "E. M.",
       address: "Rua Aristófanes Fernandes, 38 - Parque de Exposições",
@@ -819,12 +655,8 @@ export const schoolsPerNeighborhood = {
         "annacrisleandro@gmail.com",
         "msuelyloure@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "ANNA CRISTINA DA SILVA LEANDRO",
-      },
-      admFinancialDirector: {
-        name: "MARIA SUELY LOURENCO DA SILVA",
-      },
+      pedagogicalDirector: "ANNA CRISTINA DA SILVA LEANDRO",
+      admFinancialDirector: "MARIA SUELY LOURENCO DA SILVA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Manoel Monteiro Filho, 720 Passagem de Areia",
@@ -839,12 +671,8 @@ export const schoolsPerNeighborhood = {
         "carlosabertodesouza48@hotmail.com",
         "sandra.valerio@yahoo.com.br",
       ],
-      pedagogicalDirector: {
-        name: "SANDRA MARIA DE LIMA DA SILVA",
-      },
-      admFinancialDirector: {
-        name: "JUDSON CÉSAR PEREIRA DOS SANTOS",
-      },
+      pedagogicalDirector: "SANDRA MARIA DE LIMA DA SILVA",
+      admFinancialDirector: "JUDSON CÉSAR PEREIRA DOS SANTOS",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Joaquim Alexandrino Saraiva, 565 - Passagem de Areia",
@@ -856,12 +684,8 @@ export const schoolsPerNeighborhood = {
       name: "CMEI Maria do Socorro de Araújo Menezes",
       phone: "3645-6688",
       mail: ["lucialamaro@yahoo.com.br", "alexa_xandinha@hotmail.com"],
-      pedagogicalDirector: {
-        name: "ANA LUCIA DE LIRA",
-      },
-      admFinancialDirector: {
-        name: "ALEXANDRA BARBALHO RODRIGUES DOS SANTOS",
-      },
+      pedagogicalDirector: "ANA LUCIA DE LIRA",
+      admFinancialDirector: "ALEXANDRA BARBALHO RODRIGUES DOS SANTOS",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Luiz Gomes, SN – Passagem de Areia",
@@ -877,12 +701,8 @@ export const schoolsPerNeighborhood = {
         "vivianvktr@gmail.com",
         "oliveiradirmecarlos@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "VIVIAN KELLY DA TRINDADE RAMOS ANDRADE",
-      },
-      admFinancialDirector: {
-        name: "CARLOS ALEXANDRE FIRME DE OLIVEIRA",
-      },
+      pedagogicalDirector: "VIVIAN KELLY DA TRINDADE RAMOS ANDRADE",
+      admFinancialDirector: "CARLOS ALEXANDRE FIRME DE OLIVEIRA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Antonio Moreira, 76 - Passagem de Areia",
@@ -894,12 +714,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Emérito Nestor Lima",
       phone: "3644-8777",
       mail: ["emmaurademoraes@gmail.com", "alinefchacon@gmail.com"],
-      pedagogicalDirector: {
-        name: "OSEANY MYKESIA DA COSTA",
-      },
-      admFinancialDirector: {
-        name: "AFONSO RIBEIRO DAMASCENO",
-      },
+      pedagogicalDirector: "OSEANY MYKESIA DA COSTA",
+      admFinancialDirector: "AFONSO RIBEIRO DAMASCENO",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Luiza Maria da Conceição Santiago, 560 - Passagem de Areia",
@@ -915,12 +731,8 @@ export const schoolsPerNeighborhood = {
         "brene_rdf@hotmail.com",
         "alira33@yahoo.com.br",
       ],
-      pedagogicalDirector: {
-        name: "LEANDRA ALMEIDA DA SILVA",
-      },
-      admFinancialDirector: {
-        name: "ELIANE AUXILIADORA DE LIRA",
-      },
+      pedagogicalDirector: "LEANDRA ALMEIDA DA SILVA",
+      admFinancialDirector: "ELIANE AUXILIADORA DE LIRA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Canadá – 285 – Passagem de Areia",
@@ -936,12 +748,8 @@ export const schoolsPerNeighborhood = {
         "valdavalcacio@hotmail.com",
         "pselucinha@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "FRANCISCA VALDA VALCÁCIO",
-      },
-      admFinancialDirector: {
-        name: "FRANCISCA LÚCIA FRANÇA GARCIA",
-      },
+      pedagogicalDirector: "FRANCISCA VALDA VALCÁCIO",
+      admFinancialDirector: "FRANCISCA LÚCIA FRANÇA GARCIA",
       stage: "EF",
       tag: "E. M.",
       address: "Av. Presidente Getúlio Vargas, 2073 - Passagem de Areia",
@@ -957,12 +765,8 @@ export const schoolsPerNeighborhood = {
         "elisabethspadini@gmail.com",
         "julixavier@hotmail.com",
       ],
-      pedagogicalDirector: {
-        name: "ELISABETH SPADINI",
-      },
-      admFinancialDirector: {
-        name: "JULIENE XAVIER DE MEDEIROS",
-      },
+      pedagogicalDirector: "ELISABETH SPADINI",
+      admFinancialDirector: "JULIENE XAVIER DE MEDEIROS",
       stage: "EI",
       tag: "C. I.",
       address: "Avenida Presidente Getúlio Vargas, 2073 – Passagem de Areia",
@@ -974,12 +778,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Cícero de Souza Melo",
       phone: "3644-8345",
       mail: ["profairisprofissional@hotmail.com", "marilima33@hotmail.com"],
-      pedagogicalDirector: {
-        name: "IRISNARK WERIKA FURTUNATO ALVES",
-      },
-      admFinancialDirector: {
-        name: "MARIA DOS NAVEGANTES DE LIMA",
-      },
+      pedagogicalDirector: "IRISNARK WERIKA FURTUNATO ALVES",
+      admFinancialDirector: "MARIA DOS NAVEGANTES DE LIMA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Rio Branco, 32 – Santa Tereza",
@@ -993,12 +793,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Alzelina de Sena Valença",
       phone: "3644-8355",
       mail: ["marcilioricardo14@gmail.com", "izetefigueiredo@hotmail.com"],
-      pedagogicalDirector: {
-        name: "FRANCISCA GILZETE DE FIGUEIREDO",
-      },
-      admFinancialDirector: {
-        name: "MARCILIO RICARDO DE OLIVEIRA",
-      },
+      pedagogicalDirector: "FRANCISCA GILZETE DE FIGUEIREDO",
+      admFinancialDirector: "MARCILIO RICARDO DE OLIVEIRA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Joel Imperador 72, Rosa dos Ventos",
@@ -1014,12 +810,8 @@ export const schoolsPerNeighborhood = {
         "auxili2007@gmail.com",
         "cristiannypaula@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "MARIA AUXILIADORA DE FREITAS MORAIS",
-      },
-      admFinancialDirector: {
-        name: "MARGARETE MARIA SANTOS DA SILVA",
-      },
+      pedagogicalDirector: "MARIA AUXILIADORA DE FREITAS MORAIS",
+      admFinancialDirector: "MARGARETE MARIA SANTOS DA SILVA",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Francisco Ferreira da Silva, SN – Rosa dos Ventos",
@@ -1033,12 +825,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Prof. Jussier Santos",
       phone: "3644-8285",
       mail: ["empjussiersantos@gmail.com", "edubernardo@gmail.com"],
-      pedagogicalDirector: {
-        name: "LIDIANE BEATRIZ RIBEIRO SOUSA DA SILVA",
-      },
-      admFinancialDirector: {
-        name: "EDUARDO BERNARDO",
-      },
+      pedagogicalDirector: "LIDIANE BEATRIZ RIBEIRO SOUSA DA SILVA",
+      admFinancialDirector: "EDUARDO BERNARDO",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Garrastazu Médice, 265 – Santa Tereza",
@@ -1050,12 +838,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Desembargador Silvino Bezerra Neto",
       phone: "3644-8382",
       mail: ["emdsilvinobezerra@gmail.com"],
-      pedagogicalDirector: {
-        name: "VANESSA DE OLIVEIRA FERNANDES",
-      },
-      admFinancialDirector: {
-        name: "ANDREIA DOS SANTOS FERREIRA",
-      },
+      pedagogicalDirector: "VANESSA DE OLIVEIRA FERNANDES",
+      admFinancialDirector: "ANDREIA DOS SANTOS FERREIRA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Delfim Moreira Neto, 189 – Santa Tereza",
@@ -1069,12 +853,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Maria do Céu Fernandes",
       phone: "3644-8290",
       mail: ["aasilvajrufrn@gmail.com", "celiasebah@gmail.com"],
-      pedagogicalDirector: {
-        name: "CELIA SEBASTIANADA COSTA BEZERRA",
-      },
-      admFinancialDirector: {
-        name: "ANTONIO ALFREDO DA SILVA JÚNIOR",
-      },
+      pedagogicalDirector: "CELIA SEBASTIANADA COSTA BEZERRA",
+      admFinancialDirector: "ANTONIO ALFREDO DA SILVA JÚNIOR",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Dr. Sadi Mendes, 977 – Santos Reis",
@@ -1090,13 +870,8 @@ export const schoolsPerNeighborhood = {
         "maricosta.silva2004@gmail.com",
         "mari_36-2011@hotmail.com",
       ],
-      pedagogicalDirector: {
-        name: "MARIA JOSÉ COSTA DA SILVA",
-      },
-      admFinancialDirector: {
-        name: "ARLÊNIA MARIA ROCHA",
-      },
-
+      pedagogicalDirector: "MARIA JOSÉ COSTA DA SILVA",
+      admFinancialDirector: "ARLÊNIA MARIA ROCHA",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Aspirante Santos, 1502 – Santos Reis",
@@ -1112,12 +887,8 @@ export const schoolsPerNeighborhood = {
         "pris.fot@gmail.com",
         "rosiribeiro@gmail.com",
       ],
-      pedagogicalDirector: {
-        name: "PRISCILA FERNANDES DE OLIVEIRA TOSCANO",
-      },
-      admFinancialDirector: {
-        name: "ROSEMEIRE DO NASCIMENTO RIBEIRO",
-      },
+      pedagogicalDirector: "PRISCILA FERNANDES DE OLIVEIRA TOSCANO",
+      admFinancialDirector: "ROSEMEIRE DO NASCIMENTO RIBEIRO",
       stage: "EI",
       tag: "C. I.",
       address: "Av. Senador Duarte Filho, s/n – Santos Reis",
@@ -1129,12 +900,8 @@ export const schoolsPerNeighborhood = {
       name: "Centro Infantil Prof. Ivete Maria Ferreira da Silva",
       phone: "",
       mail: ["emdsilvinobezerra@gmail.com"],
-      pedagogicalDirector: {
-        name: "NORMA FERNANDES DOS SANTOS",
-      },
-      admFinancialDirector: {
-        name: "NELI BERNARDO DE ANDRADE",
-      },
+      pedagogicalDirector: "NORMA FERNANDES DOS SANTOS",
+      admFinancialDirector: "NELI BERNARDO DE ANDRADE",
       stage: "EI",
       tag: "C. I.",
       address: "Av: Paulo Afonso – 193/ - Santos Reis",
@@ -1152,12 +919,8 @@ export const schoolsPerNeighborhood = {
         "meryselmapaulino06@gmail.com",
         "josimarferreira_20@yahoo.com.br",
       ],
-      pedagogicalDirector: {
-        name: "MERYSELMA TOMAZ PAULINO",
-      },
-      admFinancialDirector: {
-        name: "JOSIMAR ALVES FERREIRA",
-      },
+      pedagogicalDirector: "MERYSELMA TOMAZ PAULINO",
+      admFinancialDirector: "JOSIMAR ALVES FERREIRA",
       stage: "EF",
       tag: "E. M.",
       address: "Rua Eugênia Palhares de Oliveira, 191 - Vale do Sol",
@@ -1169,12 +932,8 @@ export const schoolsPerNeighborhood = {
       name: "Centro Infantil Maria Dilma Lacerda",
       phone: "3643-5970",
       mail: ["cmeimariadilma@gmail.com", "jess92caroline@gmail.com"],
-      pedagogicalDirector: {
-        name: "MARIA PIEDADE TRINDADE DA SILVA",
-      },
-      admFinancialDirector: {
-        name: "FRANCICLEIDE MEIRY DA SILVA",
-      },
+      pedagogicalDirector: "MARIA PIEDADE TRINDADE DA SILVA",
+      admFinancialDirector: "FRANCICLEIDE MEIRY DA SILVA",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Bertulina Antunes, SN – Vale do Sol",
@@ -1190,12 +949,8 @@ export const schoolsPerNeighborhood = {
         "montenegromanuella@gmail.com",
         "andressaguedesprofessora@gmai.com",
       ],
-      pedagogicalDirector: {
-        name: "MANUELLA MONTENEGRO VASCONCELOS",
-      },
-      admFinancialDirector: {
-        name: "PRISCILA KEILA DANTAS",
-      },
+      pedagogicalDirector: "MANUELLA MONTENEGRO VASCONCELOS",
+      admFinancialDirector: "PRISCILA KEILA DANTAS",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Firmino Gomes de Castro, SN – Vale do Sol",
@@ -1207,12 +962,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Historiador Hélio Mamede Galvão",
       phone: "3644-8380",
       mail: ["almirdoca@hotmail.com", "augustocrezende@zipmail.com.br"],
-      pedagogicalDirector: {
-        name: "ALMIR CÉSAR TEIXEIRA FILHO",
-      },
-      admFinancialDirector: {
-        name: "AUGUSTO CÉSAR DA SILVA REZENDE",
-      },
+      pedagogicalDirector: "ALMIR CÉSAR TEIXEIRA FILHO",
+      admFinancialDirector: "AUGUSTO CÉSAR DA SILVA REZENDE",
       stage: "EI/EF",
       tag: "E. M.",
       address: "Rua Cícero José dos Santos, 453 - Vale do Sol",
@@ -1230,12 +981,8 @@ export const schoolsPerNeighborhood = {
         "marie_medeiros@yahoo.com.br",
         "elis.rj@hotmail.com",
       ],
-      pedagogicalDirector: {
-        name: "MARIA AUXILIADORA MEDEIROS DE OLIVEIRA",
-      },
-      admFinancialDirector: {
-        name: "FLÁVIA LOPES GOMES",
-      },
+      pedagogicalDirector: "MARIA AUXILIADORA MEDEIROS DE OLIVEIRA",
+      admFinancialDirector: "FLÁVIA LOPES GOMES",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Bagre – 01 – Vida Nova",
@@ -1250,12 +997,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Deputado Erivan França",
       phone: "3238-1072",
       mail: ["janicealmeida2103@yahoo.com.br", "nilsondenisia@yahoo.com.br"],
-      pedagogicalDirector: {
-        name: "NILSON FERNANDES REGO",
-      },
-      admFinancialDirector: {
-        name: "JANICE OLIVEIRA DE ALMEIDA",
-      },
+      pedagogicalDirector: "NILSON FERNANDES REGO",
+      admFinancialDirector: "JANICE OLIVEIRA DE ALMEIDA",
       stage: "EF",
       tag: "E. M.",
       address: "Avenida Beira Rio, 830 – Distrito do Litoral, Pirangi do Norte",
@@ -1267,12 +1010,8 @@ export const schoolsPerNeighborhood = {
       name: "Centro Infantil Dona Liquinha Alves",
       phone: "3238-1075",
       mail: ["cimliquinhaalves@gmail.com"],
-      pedagogicalDirector: {
-        name: "MARIA DE FATIMA MEDEIROS TRAJANO LIMA",
-      },
-      admFinancialDirector: {
-        name: "MARIA ROSÂNGELA DA SILVA",
-      },
+      pedagogicalDirector: "MARIA DE FATIMA MEDEIROS TRAJANO LIMA",
+      admFinancialDirector: "MARIA ROSÂNGELA DA SILVA",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Carmi de Souza, SN – Pirangi do Norte",
@@ -1286,12 +1025,8 @@ export const schoolsPerNeighborhood = {
       name: "EM Raimunda Maria da Conceição",
       phone: "3237-4907",
       mail: ["mariabeatrizvianaarruda@gmail.com", "jeaneamil@hotmail.com"],
-      pedagogicalDirector: {
-        name: "MARIA BEATRIZ VIANA ARRUDA",
-      },
-      admFinancialDirector: {
-        name: "JEANE CARLA DA SILVA LIMA ALENCAR",
-      },
+      pedagogicalDirector: "MARIA BEATRIZ VIANA ARRUDA",
+      admFinancialDirector: "JEANE CARLA DA SILVA LIMA ALENCAR",
       stage: "EF",
       tag: "E. M.",
       address: "Avenida Edgardo Medeiros, 2130 - Distrito Litoral – Cotovelo",
@@ -1307,12 +1042,8 @@ export const schoolsPerNeighborhood = {
         "raquelmlcorreia@yahoo.com.br",
         "katarinaragao@yahoo.com.br",
       ],
-      pedagogicalDirector: {
-        name: "KÁTIA SILVA",
-      },
-      admFinancialDirector: {
-        name: "ANA RAQUEL DE OLIVERIA SOUZA",
-      },
+      pedagogicalDirector: "KÁTIA SILVA",
+      admFinancialDirector: "ANA RAQUEL DE OLIVERIA SOUZA",
       stage: "EI",
       tag: "C. I.",
       address: "Rua Santa Luzia – SN – Pium",

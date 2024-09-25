@@ -67,14 +67,10 @@ function School() {
 
           <div className="school__directors">
             <div className="director">
-              <h4>
-                Diretor(a) Pedagógico: {schoolData.pedagogicalDirector.name}
-              </h4>
+              <h4>Diretor(a) Pedagógico: {schoolData.pedagogicalDirector}</h4>
             </div>
             <div className="director">
-              <h4>
-                Diretor ADM-Financeiro: {schoolData.admFinancialDirector.name}
-              </h4>
+              <h4>Diretor ADM-Financeiro: {schoolData.admFinancialDirector}</h4>
             </div>
           </div>
         </div>

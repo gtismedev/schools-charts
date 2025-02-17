@@ -1,14 +1,12 @@
 import { useState } from "react";
 import { schoolsPerNeighborhood } from "../../data/data";
 import { Link } from "react-router-dom";
-
 import "./neighborhoodSection.css";
 
 export function NeighborhoodSection() {
   const [selectedSchools, setSelectedSchools] = useState([]);
   const [selectedButton, setSelectedButton] = useState(null);
-
-  // Estado inicial: nenhuma escola selecionada
+  const [searchTerm, setSearchTerm] = useState("");
   const allSchools = Object.values(schoolsPerNeighborhood).flat();
 
   const handleClick = (neighborhood) => {
@@ -18,7 +16,23 @@ export function NeighborhoodSection() {
 
   const handleShowAll = () => {
     setSelectedSchools(allSchools);
-    setSelectedButton(null); // Desseleciona o botão de bairro
+    setSelectedButton(null);
+  };
+
+  const handleSearch = (event) => {
+    const term = event.target.value.toLowerCase();
+    setSearchTerm(term);
+
+    if (term === "") {
+      setSelectedSchools(allSchools);
+    } else {
+      const filteredSchools = allSchools.filter((school) => {
+        const schoolNameMatch = school.name.toLowerCase().includes(term);
+        const neighborhoodMatch = school.address.toLowerCase().includes(term);
+        return schoolNameMatch || neighborhoodMatch;
+      });
+      setSelectedSchools(filteredSchools);
+    }
   };
 
   return (
@@ -49,8 +63,18 @@ export function NeighborhoodSection() {
           </button>
         ))}
       </div>
+
+      <div className="neiborhood__search">
+        <input
+          type="text"
+          placeholder="Digite o nome da Escola ou Bairro"
+          value={searchTerm}
+          onChange={handleSearch}
+        />
+      </div>
+
       <div className="schools-table">
-        {selectedSchools.length > 0 && (
+        {selectedSchools.length > 0 ? (
           <table className="schools-table__info">
             <caption style={captionStyle}>
               EI - Educação infantil / EF - Ensino fundamental
@@ -82,6 +106,8 @@ export function NeighborhoodSection() {
               ))}
             </tbody>
           </table>
+        ) : (
+          <p>Nenhum resultado encontrado.</p>
         )}
       </div>
     </div>

@@ -1,0 +1,48 @@
+.school__container {
+  font-family: Inter, monospace;
+  color: #1c3152;
+}
+
+.school__info {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: .3rem;
+}
+
+.school__container > h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 3.1rem;
+}
+
+.school__map {
+  margin: 1rem 0;
+}
+
+.school__directors {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: .8rem;
+}
+
+@media only screen and (max-width: 767px) {
+  .school__info > p {
+    font-size: .8rem;
+  }
+
+  .school__container > h3 {
+    font-size: 1rem;
+    line-height: 2rem;
+  }
+
+  .director > h4 {
+    font-size: .8rem;
+  }
+
+  .school__directors {
+    gap: .4rem;
+    margin-bottom: .4rem;
+  }
+}

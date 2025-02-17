@@ -25,15 +25,12 @@ import "./chart.css";
 export function Chart() {
   const options = {
     responsive: true,
+    maintainAspectRatio: true,
   };
-
-  function handleClick() {
-    console.log("oioioioi");
-  }
 
   return (
     <div className="chart">
-      <Bar options={options} data={barChartData} onClick={handleClick} />
+      <Bar options={options} data={barChartData} />
     </div>
   );
 }

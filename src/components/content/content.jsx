@@ -17,13 +17,13 @@ export function Content() {
   return (
     <>
       <div className="title">
-        <h1>Infográfico escolar</h1>
-        <p>Gráfico relativo a bairros e escolas da Secretaria de Educação</p>
+        <h1>Educação em Dados</h1>
+        <p>Panorama da Rede Municipal de Ensino de Parnamirim</p>
       </div>
       <div className="content">
         <div className="content__box">
           <p>{totalSchools}</p>
-          <span>Escolas</span>
+          <span>Unidades de Ensino</span>
         </div>
         <div className="content__box">
           <p>{neighborhoods}</p>

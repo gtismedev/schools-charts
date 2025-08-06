@@ -42,6 +42,42 @@
   min-width: 10%;
 }
 
-.content__box>p {
+.content__box > p {
   font-weight: 700;
+}
+
+.content__box > span {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 767px) {
+  .title > h1  {
+    font-size: 2rem;
+  }
+
+  .title > p {
+    font-size: .6rem;
+    text-align: center;
+  }
+
+  .content {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .content__box {
+    padding: 1rem 3.5rem;
+    gap: .5rem;
+  }
+
+  .content__box > p {
+    font-size: 1rem;
+  }
+  
+  .content__box > span {
+    font-size: .8rem;
+  }
 }

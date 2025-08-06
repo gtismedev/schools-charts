@@ -1,0 +1,24 @@
+.container {
+  max-width: 65rem;
+  min-height: calc(100vh - 22.45rem);
+  margin: 0 auto;
+  padding: 4rem 4.5rem 0 4.5rem;
+}
+
+.container__neighborhood-section {
+  margin-top: 2rem;
+}
+
+#error-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+@media only screen and (max-width: 767px) {
+  .container {
+    padding: 1rem 1rem 0 1rem;
+  }
+}

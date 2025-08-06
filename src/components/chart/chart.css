@@ -1,3 +1,9 @@
 .chart {
   margin-top: 4rem;
 }
+
+@media only screen and (max-width: 767px) {
+  .chart {
+    margin-top: 2rem;
+  }
+}
